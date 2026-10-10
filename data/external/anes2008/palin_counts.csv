@@ -1,0 +1,81 @@
+"sample","party","phase","n"
+"All rows","All","Before October 10",1949
+"All rows","All","October 10",55
+"All rows","All","After October 10",710
+"All rows","All","Missing date",1526
+"All rows","Democrat","Before October 10",847
+"All rows","Democrat","October 10",21
+"All rows","Democrat","After October 10",288
+"All rows","Democrat","Missing date",101
+"All rows","Republican","Before October 10",795
+"All rows","Republican","October 10",22
+"All rows","Republican","After October 10",238
+"All rows","Republican","Missing date",87
+"All rows","Independent","Before October 10",220
+"All rows","Independent","October 10",9
+"All rows","Independent","After October 10",72
+"All rows","Independent","Missing date",33
+"All rows","Missing PID","Before October 10",87
+"All rows","Missing PID","October 10",3
+"All rows","Missing PID","After October 10",112
+"All rows","Missing PID","Missing date",1305
+"Paired ratings and dates","All","Before October 10",1858
+"Paired ratings and dates","All","October 10",52
+"Paired ratings and dates","All","After October 10",591
+"Paired ratings and dates","All","Missing date",0
+"Paired ratings and dates","Democrat","Before October 10",846
+"Paired ratings and dates","Democrat","October 10",21
+"Paired ratings and dates","Democrat","After October 10",282
+"Paired ratings and dates","Democrat","Missing date",0
+"Paired ratings and dates","Republican","Before October 10",794
+"Paired ratings and dates","Republican","October 10",22
+"Paired ratings and dates","Republican","After October 10",234
+"Paired ratings and dates","Republican","Missing date",0
+"Paired ratings and dates","Independent","Before October 10",216
+"Paired ratings and dates","Independent","October 10",9
+"Paired ratings and dates","Independent","After October 10",71
+"Paired ratings and dates","Independent","Missing date",0
+"Paired ratings and dates","Missing PID","Before October 10",2
+"Paired ratings and dates","Missing PID","October 10",0
+"Paired ratings and dates","Missing PID","After October 10",4
+"Paired ratings and dates","Missing PID","Missing date",0
+"Eligible unweighted","All","Before October 10",1640
+"Eligible unweighted","All","October 10",0
+"Eligible unweighted","All","After October 10",509
+"Eligible unweighted","All","Missing date",0
+"Eligible unweighted","Democrat","Before October 10",846
+"Eligible unweighted","Democrat","October 10",0
+"Eligible unweighted","Democrat","After October 10",278
+"Eligible unweighted","Democrat","Missing date",0
+"Eligible unweighted","Republican","Before October 10",794
+"Eligible unweighted","Republican","October 10",0
+"Eligible unweighted","Republican","After October 10",231
+"Eligible unweighted","Republican","Missing date",0
+"Eligible unweighted","Independent","Before October 10",0
+"Eligible unweighted","Independent","October 10",0
+"Eligible unweighted","Independent","After October 10",0
+"Eligible unweighted","Independent","Missing date",0
+"Eligible unweighted","Missing PID","Before October 10",0
+"Eligible unweighted","Missing PID","October 10",0
+"Eligible unweighted","Missing PID","After October 10",0
+"Eligible unweighted","Missing PID","Missing date",0
+"Eligible weighted","All","Before October 10",1594
+"Eligible weighted","All","October 10",0
+"Eligible weighted","All","After October 10",471
+"Eligible weighted","All","Missing date",0
+"Eligible weighted","Democrat","Before October 10",823
+"Eligible weighted","Democrat","October 10",0
+"Eligible weighted","Democrat","After October 10",257
+"Eligible weighted","Democrat","Missing date",0
+"Eligible weighted","Republican","Before October 10",771
+"Eligible weighted","Republican","October 10",0
+"Eligible weighted","Republican","After October 10",214
+"Eligible weighted","Republican","Missing date",0
+"Eligible weighted","Independent","Before October 10",0
+"Eligible weighted","Independent","October 10",0
+"Eligible weighted","Independent","After October 10",0
+"Eligible weighted","Independent","Missing date",0
+"Eligible weighted","Missing PID","Before October 10",0
+"Eligible weighted","Missing PID","October 10",0
+"Eligible weighted","Missing PID","After October 10",0
+"Eligible weighted","Missing PID","Missing date",0

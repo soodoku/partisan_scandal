@@ -1,0 +1,42 @@
+{
+  "recorded_at": "2026-10-10T21:41:03.227452+00:00",
+  "status": "retrospective exploratory extension; headline approval results and data-availability/topic-count audits already seen; new coverage/NAES/ANES model coefficients not inspected",
+  "coverage": {
+    "universe": "ABC CBS NBC evening news; calendar-listed programs; 2004-07-22 through2004-09-12; retain absent programs as missing",
+    "primary_outcome": "program contains at least one substantive news segment covering Swift Boat allegations or responses; teasers and ads excluded",
+    "secondary_outcome": "minutes in substantive segments mentioning the allegations; not exact issue airtime",
+    "attention_check": "minutes in substantive segments about Olympics",
+    "comparison": "daily NBC minus arithmetic mean ABC/CBS on dates all three observed; descriptive relative allocation contrast",
+    "regressors": "intercept; Olympics 2004-08-13 through2004-08-29; after2004-08-29; common linear calendar-day trend",
+    "sensitivity": [
+      "no linear trend",
+      "weekdays only",
+      "pre/Olympics only",
+      "HAC calendar lags3,7,10"
+    ],
+    "inference": "Bartlett calendar-distance HAC, finite adjustment n/(n-p), t df n-p; one NBC network and one Games, not randomized assignment",
+    "risks": [
+      "DNC July26\u201329",
+      "RNC Aug30\u2013Sep2",
+      "Olympics anticipation",
+      "network-specific editorial decisions",
+      "topic measurement from titles and abstracts"
+    ]
+  },
+  "opinions": {
+    "NAES": "Retain original rows/codes and missing-value eligibility; Kerry and Palin 0-10 favorability recoded 0-100; PID3 primary, PID7 leaners sensitivity; same-day target milestone interviews excluded; unweighted primary. Official NAES04 was distributed unweighted (codebook p47). Historical weight1/2 are analyst-constructed, not official survey weights.",
+    "Kerry": "Daily mean Kerry rating by interview date, contemporaneous most-watched network ABC/CBS/NBC, and strict party ID. Within each party, NBC minus arithmetic mean ABC/CBS. Third contrast is Democratic gap minus Republican gap. Regress daily gaps on Olympics, post-Games, calendar trend; no-trend sensitivity; actual-calendar HAC lags 3/7/10. Conventions, contemporaneous viewing choice and changing audience composition prevent causal interpretation without further assumptions.",
+    "Palin": "Oct10report release; +/-7calendar-day primary and14daysensitivity; party-interacted post and linear calendartrend; baselineSeptparty inANES, contemporaneousPID inNAES",
+    "ANES": "within-person September-to-October change; weightswgtl10; same-day andelection-day-orlaterexcluded; party-interactedpost/trend; stratum/cohort terms; dateclusterCR2primary andcalendarHACsensitivity",
+    "reporting": "all new tests two-sided exploratory; report estimates/intervals and retainedspecifications, no selectionbysignificance",
+    "awareness": "cDA12 August9-16: seen/heard (codes1/2) vs neither(code3); exclude August13 opening-day interviews; descriptive daily NBC minus ABC/CBS contrast before/after, also individual-cell denominators. Seven dates preclude reliable time-series inference. cDA08 medals belief August9-September4: yes vs no among definite responses; report do-not-know separately.",
+    "selection": "Compare daily NBC audience share and NBC-minus-other-network audience age, sex, education and partisan composition over the same periods."
+  },
+  "source_links": [
+    "https://www.annenbergpublicpolicycenter.org/cable-and-talk-radio-boost-public-awareness-of-swift-boat-ad/",
+    "https://www.olympic.qa/athens-2004",
+    "https://tvnews.vanderbilt.edu/"
+  ],
+  "independent_review": "publicity_data_review andbroadcast_data_review read-only data/design reviews; competingconventions andcalendar-gap inference incorporated",
+  "amendment_before_new_estimates": "Primary NAES weighting corrected on inspection of official codebook. Network and awareness questions recovered from public replication datasets; added outcome and composition comparisons before any publicity/opinion coefficients were run. Full 81422-person source preferred over earlier 63513 non-Hispanic-white English-language subset."
+}

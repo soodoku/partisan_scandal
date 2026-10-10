@@ -1,0 +1,26 @@
+Package: partisanScandalStudy
+Title: Partisan Approval Around Recorded Political Scandals
+Version: 0.1.0
+Authors@R: person("Gaurav", "Sood", role = c("aut", "cre"), email = "gsood07@gmail.com")
+Description: Reproducible data reconciliation, interrupted-series analyses,
+    sensitivity checks, and manuscript generation for partisan approval.
+License: file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.4.0)
+Imports:
+    clubSandwich,
+    dqrng,
+    digest,
+    haven,
+    jsonlite,
+    fwildclusterboot,
+    ggplot2,
+    nlme,
+    readxl,
+    sandwich,
+    tidyselect
+Suggests:
+    lintr,
+    renv,
+    styler,
+    testthat

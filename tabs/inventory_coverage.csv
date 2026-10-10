@@ -1,0 +1,90 @@
+"politician","key","party","event_date","category","matched_rows","pre","post","reason","any_poll_before","any_poll_after"
+"Marco Rubio","||rubio","R","2011-10-20","8",0,0,0,"No matched approval records",FALSE,FALSE
+"Frank Murkowski","AK|G|murkowski","R","2008-03-04","6",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Sarah Palin","AK|G|palin","R","2008-07-28","6",0,0,0,"No matched approval records",FALSE,FALSE
+"Lisa Murkowski","AK|S|murkowski","R","2007-08-01","6",18,3,0,"Fewer than two post-event polls",TRUE,FALSE
+"Ted Stevens","AK|S|stevens","R","2007-07-31","6",18,4,0,"Fewer than two post-event polls",TRUE,FALSE
+"Robert J. Bentley","AL|G|bentley","R","2011-01-19","8",0,0,0,"No matched approval records",FALSE,FALSE
+"Bob Riley","AL|G|riley","R","2005-11-15","6",52,6,9,"Included",TRUE,TRUE
+"Jeff Sessions","AL|S|sessions","R","2009-05-15","7",51,10,6,"Included",TRUE,TRUE
+"Jan Brewer","AZ|G|brewer","R","2010-06-02","8",0,0,0,"No matched approval records",FALSE,FALSE
+"John Kyl","AZ|S|kyl","R","2011-04-08","8",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Arnold Schwarzenegger","CA|G|schwarzenegger","R","2003-10-02","3",63,0,0,"Fewer than two polls on both sides",FALSE,TRUE
+"Jodi Rell","CT|G|rell","R","2006-03-08","6",18,10,5,"Included",TRUE,TRUE
+"Richard Blumenthal","CT|S|blumenthal","D","2010-05-17","8",0,0,0,"No matched approval records",FALSE,FALSE
+"Chris Dodd","CT|S|dodd","D","2008-06-12","6",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Mel Martinez","FL|S|martinez","R","2005-04-06","8",18,0,12,"Fewer than two pre-event polls",FALSE,TRUE
+"Bill Nelson","FL|S|nelson","D","2009-02-17","6",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Marco Rubio","FL|S|rubio","R","2010-04-22","6",0,0,0,"No matched approval records",FALSE,FALSE
+"Nathan Deal","GA|G|deal","R","2010-03-29","6",0,0,0,"No matched approval records",FALSE,FALSE
+"Chuck Grassley","IA|S|grassley","R","2009-03-16","8",50,10,6,"Included",TRUE,TRUE
+"Larry Craig","ID|S|craig","R","2007-08-27","2",18,3,0,"Fewer than two post-event polls",TRUE,FALSE
+"Rod Blagojevich","IL|G|blagojevich","D","2008-12-10","6",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Roland Burris","IL|S|burris","D","2008-12-30","6",0,0,0,"No matched approval records",FALSE,FALSE
+"Dick Durbin","IL|S|durbin","D","2005-06-22","8",18,1,12,"Fewer than two pre-event polls",TRUE,TRUE
+"Mark Kirk","IL|S|kirk","R","2005-11-06","7",0,0,0,"No matched approval records",FALSE,FALSE
+"Ernie Fletcher","KY|G|fletcher","R","2006-05-12","6",30,12,9,"Included",TRUE,TRUE
+"Jim Bunning","KY|S|bunning","R","2009-02-23","8",52,10,9,"Included",TRUE,TRUE
+"Rand Paul","KY|S|paul","R","2010-05-21","7",0,0,0,"No matched approval records",FALSE,FALSE
+"Bobby Jindal","LA|G|jindal","R","2011-03-02","6",0,0,0,"No matched approval records",FALSE,FALSE
+"David Vitter","LA|S|vitter","R","2007-07-09","2",18,4,0,"Fewer than two post-event polls",TRUE,FALSE
+"Deval Patrick","MA|G|patrick","D","2007-02-21","6",24,1,0,"Fewer than two polls on both sides",TRUE,TRUE
+"Scott Brown","MA|S|brown","R","2011-05-06","9",0,0,0,"No matched approval records",FALSE,FALSE
+"John Kerry","MA|S|kerry","D","2006-11-01","9",44,12,12,"Included",TRUE,TRUE
+"Robert L. Ehrlich, Jr.","MD|G|ehrlich","R","2006-11-07","6",18,10,0,"Fewer than two post-event polls",TRUE,FALSE
+"Martin J. O'Malley","MD|G|o'malley","D","2005-02-09","9",0,0,0,"No matched approval records",FALSE,FALSE
+"Paul LePage","ME|G|lepage","R","2010-12-24","6",0,0,0,"No matched approval records",FALSE,FALSE
+"Jennifer Granholm","MI|G|granholm","D","2009-03-24","9",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Norm Coleman","MN|S|coleman","R","2008-10-30","6",41,10,2,"Included",TRUE,TRUE
+"Matt Blunt","MO|G|blunt","R","2008-01-10","6",41,12,9,"Included",TRUE,TRUE
+"Kit Bond","MO|S|bond","R","2008-11-30","6",52,10,11,"Included",TRUE,TRUE
+"Claire McCaskill","MO|S|mccaskill","D","2011-03-11","6",33,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Haley Barbour","MS|G|barbour","R","2010-12-22","7",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Conrad Burns","MT|S|burns","R","2006-03-27","6",18,10,4,"Included",TRUE,TRUE
+"Jon Tester","MT|S|tester","D","2011-04-20","6",0,0,0,"No matched approval records",FALSE,FALSE
+"Mike Easley","NC|G|easley","D","2008-06-30","6",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Beverly Perdue","NC|G|perdue","D","2011-05-19","8",0,0,0,"No matched approval records",FALSE,FALSE
+"Richard Burr","NC|S|burr","R","2009-04-15","8",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Kent Conrad","ND|S|conrad","D","2008-06-22","6",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Byron Dorgan","ND|S|dorgan","D","2005-12-05","6",18,7,10,"Included",TRUE,TRUE
+"Judd Gregg","NH|S|gregg","R","2009-02-27","6",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Chris Christie","NJ|G|christie","R","2008-01-10","6",1,0,0,"Fewer than two polls on both sides",FALSE,TRUE
+"Richard Codey","NJ|G|codey","D","2005-01-29","8",8,0,0,"Fewer than two polls on both sides",FALSE,TRUE
+"Frank Lautenberg","NJ|S|lautenberg","D","2006-02-28","9",19,9,8,"Included",TRUE,TRUE
+"Bob Menendez","NJ|S|menendez","D","2010-02-11","6",10,0,1,"Fewer than two polls on both sides",TRUE,TRUE
+"Bill Richardson","NM|G|richardson","D","2008-12-15","6",49,9,9,"Included",TRUE,TRUE
+"Pete Domenici","NM|S|domenici","R","2007-03-05","6",41,11,12,"Included",TRUE,TRUE
+"Jim Gibbons","NV|G|gibbons","R","2006-10-19","3",0,0,0,"No matched approval records",FALSE,FALSE
+"John Ensign","NV|S|ensign","R","2009-06-16","1",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Dean Heller","NV|S|heller","R","2010-02-23","9",0,0,0,"No matched approval records",FALSE,FALSE
+"Harry Reid","NV|S|reid","D","2010-01-09","7",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"David Paterson","NY|G|paterson","D","2010-02-24","6",19,10,1,"Fewer than two post-event polls",TRUE,TRUE
+"Eliot Spitzer","NY|G|spitzer","D","2008-03-11","2",13,11,0,"Fewer than two post-event polls",TRUE,FALSE
+"Chuck Schumer","NY|S|schumer","D","2009-12-17","9",52,11,1,"Fewer than two post-event polls",TRUE,TRUE
+"John Kasich","OH|G|kasich","R","2011-02-17","8",0,0,0,"No matched approval records",FALSE,FALSE
+"Bob Taft","OH|G|taft","R","2005-08-17","6",19,3,12,"Included",TRUE,TRUE
+"Sherrod Brown","OH|S|brown","D","2011-03-03","9",26,4,0,"Fewer than two post-event polls",TRUE,FALSE
+"Tom Coburn","OK|S|coburn","R","2011-05-12","6",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Jeff Merkley","OR|S|merkley","D","2008-08-13","9",30,0,8,"Fewer than two pre-event polls",FALSE,TRUE
+"Ed Rendell","PA|G|rendell","D","2009-08-28","6",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Rick Santorum","PA|S|santorum","R","2011-05-13","6",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Arlen Specter","PA|S|specter","R","2008-12-16","7",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Donald Carcieri","RI|G|carcieri","R","2007-12-18","9",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Nikki Haley","SC|G|haley","R","2010-05-26","1",0,0,0,"No matched approval records",FALSE,FALSE
+"Mark Sanford","SC|G|sanford","R","2009-06-22","9",19,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Jim DeMint","SC|S|demint","R","2010-10-02","9",19,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"M. Michael Rounds","SD|G|rounds","R","2010-04-08","6",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"John Thune","SD|S|thune","R","2010-07-09","6",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Bob Corker","TN|S|corker","R","2006-08-25","6",0,0,0,"No matched approval records",FALSE,FALSE
+"Bill Frist","TN|S|frist","R","2005-09-23","6",18,4,8,"Included",TRUE,TRUE
+"Rick Perry","TX|G|perry","R","2011-10-01","7",25,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"John Cornyn","TX|S|cornyn","R","2008-06-29","9",25,1,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Gary Herbert","UT|G|herbert","R","2010-02-03","6",0,0,0,"No matched approval records",FALSE,FALSE
+"Orrin Hatch","UT|S|hatch","R","2009-06-02","6",18,0,0,"Fewer than two polls on both sides",TRUE,FALSE
+"Bob McDonnell","VA|G|mcdonnell","R","2009-08-29","8",0,0,0,"No matched approval records",FALSE,FALSE
+"George Allen","VA|S|allen","R","2006-08-14","7",19,12,0,"Fewer than two post-event polls",TRUE,TRUE
+"Jim Webb","VA|S|webb","D","2006-06-10","7",33,0,6,"Fewer than two pre-event polls",FALSE,TRUE
+"Peter Shumlin","VT|G|shumlin","D","2011-03-09","9",0,0,0,"No matched approval records",FALSE,FALSE
+"Maria Cantwell","WA|S|cantwell","D","2006-10-02","1",71,12,11,"Included",TRUE,TRUE
+"Scott Walker","WI|G|walker","R","2011-02-23","9",0,0,0,"No matched approval records",FALSE,FALSE
+"Ron Johnson","WI|S|johnson","R","2010-09-30","6",0,0,0,"No matched approval records",FALSE,FALSE

@@ -1,0 +1,6 @@
+data/** -text
+docs/*.csv -text
+*.pdf binary
+*.dta binary
+*.xlsx binary
+*.zip binary

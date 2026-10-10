@@ -1,0 +1,2 @@
+"seed","draws","exceedances","p","p_directional","statistic","null_imposed","method","weights","cluster"
+20261010,9999,625,0.0626,0.0317,2.07106770231369,TRUE,"WCR11","Rademacher","state"

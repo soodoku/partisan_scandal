@@ -1,0 +1,3 @@
+file,source,sha256,description
+mturk.csv,partisan_principled/data/raw/mturk.csv,395f41b3aaef15564274e19cbb077b5ce10fb921d8ace95c25c7d6a769f58d96,Public deidentified 930-respondent export; no private data
+data.R,partisan_principled/R/data.R,92c5f4f8bc7b8959b8513db4c7d78aa6f1f08502390ffd59c82ebd12bdaa884f,Frozen documented response-code and assignment recodes

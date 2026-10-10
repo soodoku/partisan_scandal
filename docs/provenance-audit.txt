@@ -1,0 +1,42 @@
+audit_provenance.py
+  manuscript : ms/main.tex
+  artifacts  : tabs  (41 files, 4,209 distinct values)
+  labels mapped to files: 9
+
+==========================================================================
+SCOPED NEAR-MISS  0   (9 paragraphs cite a resolvable table)
+==========================================================================
+AMBIGUOUS TABLE PATHS (not compared):
+  ../tabs/experiment_bridge.tex: experiment_bridge.csv, experiment_bridge.tex
+  ../tabs/inventory_attrition.tex: inventory_attrition.csv, inventory_attrition.tex
+  ../tabs/inventory_types.tex: inventory_types.csv, inventory_types.tex
+  ../tabs/legacy.tex: legacy.csv, legacy.tex
+  ../tabs/olympic_support.tex: olympic_support.csv, olympic_support.tex
+  ../tabs/subgroups.tex: subgroups.csv, subgroups.tex
+  ../tabs/support.tex: support.csv, support.tex
+
+none -- every prose number in a table-citing paragraph either matches
+its cited table exactly or is far enough away to be a different quantity.
+
+==========================================================================
+ORPHAN  9 of 16 distinct prose numbers appear in NO artifact
+==========================================================================
+Typed by hand or derived undocumented -- neither can be regenerated,
+so neither will ever be caught drifting. Triage the ones that look
+like estimates rather than sample sizes.
+
+            17,884
+              -859
+               809
+              -100
+                50
+              1.15
+              1.12
+              0.94
+              0.86
+
+==========================================================================
+MATCHED  7 of 16
+==========================================================================
+A match means the value EXISTS somewhere -- not that the prose reads it
+from the right place. The SCOPED check above is the one with teeth.

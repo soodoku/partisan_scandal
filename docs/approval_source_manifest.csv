@@ -1,0 +1,5 @@
+source_repository,source_path,path,sha256,bytes,imported_date
+partisan_accountability,data/raw/surveyusa_polls.csv,data/external/surveyusa_polls.csv,ca88f5739a198eeae539c9508a24be4fe3648a430f9a66e72684f87b1c7dbba5,1752178,2026-10-10
+partisan_accountability,data/raw/jacobson_senators.csv,data/external/jacobson_senators.csv,2dfd0b6302f4c308b40378d9f68b2d517cbfcee0696097dc8514520e25c63cf4,75265,2026-10-10
+partisan_accountability,data/raw/jacobson_presidents.csv,data/external/jacobson_presidents.csv,e892470dc3df503c508c02cec672e7f60289bc4ad4092a735c6a14a3e85f5dc9,24459,2026-10-10
+partisan_accountability,archive/data/jacobson/Governor File_2.csv,data/external/jacobson_governors.csv,2a17f5540bc7399cc394843be2a383e5eb219b05c6ce521d6cbaca0336135cb4,25897,2026-10-10

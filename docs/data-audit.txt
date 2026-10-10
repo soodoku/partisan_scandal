@@ -1,0 +1,169 @@
+audit_data.py  data/derived/main.csv
+
+========================================================================
+1. SHAPE AND KEYS
+========================================================================
+rows 319   columns 91
+key ['id', 'month_id']: 319 distinct, 0 duplicate rows
+
+========================================================================
+2. MISSINGNESS (level, and -- what matters -- differential)
+========================================================================
+columns with any missing:
+  next_month                                    86.52%  (276)
+  source_party                                  71.16%  (227)
+  nga.name                                      67.40%  (215)
+  nga.party                                     67.40%  (215)
+  nga.startoffice                               67.40%  (215)
+  nga.endoffice                                 67.40%  (215)
+  nga.name2                                     67.40%  (215)
+  source_url                                    47.65%  (152)
+  source_sample_n                               47.65%  (152)
+  source_poll_id                                47.65%  (152)
+  source_all_composition                        47.65%  (152)
+  bootse2                                       33.86%  (108)
+  dwnom1                                        33.86%  (108)
+  dwnom2                                        33.86%  (108)
+  bootse1                                       33.86%  (108)
+  out.approve                                   32.60%  (104)
+  in.approve                                    32.60%  (104)
+  source_name                                   18.81%  (60)
+  dwname                                         1.25%  (4)
+  cfscores.dyn                                   1.25%  (4)
+  cong                                           1.25%  (4)
+  cycle                                          1.25%  (4)
+  cfscore                                        1.25%  (4)
+  icpsr                                          1.25%  (4)
+  cfkey                                          1.25%  (4)
+
+differential missingness by 'post' (max-min fill rate > 2pp):
+  source_party                         spread  17.4pp   0=62.9%  1=80.3%
+  source_url                           spread  16.9pp   0=55.7%  1=38.8%
+  source_sample_n                      spread  16.9pp   0=55.7%  1=38.8%
+  source_poll_id                       spread  16.9pp   0=55.7%  1=38.8%
+  source_all_composition               spread  16.9pp   0=55.7%  1=38.8%
+  bootse1                              spread   4.4pp   0=31.7%  1=36.2%
+  dwnom2                               spread   4.4pp   0=31.7%  1=36.2%
+  dwnom1                               spread   4.4pp   0=31.7%  1=36.2%
+  bootse2                              spread   4.4pp   0=31.7%  1=36.2%
+  out.approve                          spread   3.1pp   0=31.1%  1=34.2%
+  in.approve                           spread   3.1pp   0=31.1%  1=34.2%
+  nga.endoffice                        spread   3.1pp   0=68.9%  1=65.8%
+  nga.party                            spread   3.1pp   0=68.9%  1=65.8%
+  nga.startoffice                      spread   3.1pp   0=68.9%  1=65.8%
+  nga.name                             spread   3.1pp   0=68.9%  1=65.8%
+  nga.name2                            spread   3.1pp   0=68.9%  1=65.8%
+  ^ differential missingness MANUFACTURES trends and gaps.
+    Constant missingness only attenuates. Check each of these.
+
+========================================================================
+3. ZEROS VS MISSING
+========================================================================
+column                                           zeros       %   missing       %
+post                                               167   52.4%         0    0.0%
+icpsr                                                0    0.0%         4    1.3%
+cycle                                                0    0.0%         4    1.3%
+cfscore                                              0    0.0%         4    1.3%
+cfscores.dyn                                         0    0.0%         4    1.3%
+cong                                                 0    0.0%         4    1.3%
+dwnom1                                               0    0.0%       108   33.9%
+dwnom2                                               0    0.0%       108   33.9%
+bootse1                                              0    0.0%       108   33.9%
+bootse2                                              0    0.0%       108   33.9%
+out.approve                                          0    0.0%       104   32.6%
+in.approve                                           0    0.0%       104   32.6%
+source_poll_id                                       0    0.0%       152   47.6%
+source_sample_n                                      0    0.0%       152   47.6%
+source_all_composition                               0    0.0%       152   47.6%
+next_month                                           0    0.0%       276   86.5%
+
+For every column with BOTH: is the zero 'measured, none found' or
+'not measured'? If the data cannot tell them apart, neither can the model.
+
+========================================================================
+4. DTYPE TRAPS
+========================================================================
+none found
+
+========================================================================
+5. VALUES OUTSIDE THEIR LOGICAL RANGE
+========================================================================
+none found
+
+========================================================================
+6. DISTRIBUTIONS, SKEW AND TAILS
+========================================================================
+                        column     median        max  max/med   skew  n_top  top_n_mass
+                       bootse1      0.028      0.077    2.750  2.123      2       0.023
+                        dwnom2     -0.151      0.808      NaN  1.863      2         NaN
+                    event_type      6.000      9.000    1.500 -1.241      3       0.013
+                       inparty     71.000     96.000    1.352 -1.170      3       0.013
+                             X  3,284.000  5,393.000      NaN -1.085      3         NaN
+                       cfscore      0.742      0.940      NaN -0.800      3         NaN
+                  cfscores.dyn      0.609      0.922      NaN -0.793      3         NaN
+ source_republican_composition     31.000     45.000    1.452 -0.782      3       0.013
+                    in.approve     73.000     96.000    1.315 -0.769      2       0.012
+         source_all_disapprove     41.000     82.000    2.000  0.700      3       0.018
+                all.disapprove     41.000     82.000    2.000  0.700      3       0.018
+                        row_id  3,313.000  5,850.000    1.766 -0.654      3       0.017
+                         cycle  2,006.000  2,008.000    1.001  0.600      3       0.010
+                          cong    110.000    111.000    1.009  0.600      3       0.010
+                      outparty     35.000     79.000    2.257  0.567      3       0.020
+  source_republican_disapprove     32.000     82.000    2.562  0.532      3       0.020
+                rep.disapprove     32.000     82.000    2.562  0.532      3       0.020
+                    next_month 24,080.000 24,135.000    1.002  0.441      1       0.023
+                   all.approve     51.000     81.000    1.588 -0.395      3       0.015
+            source_all_approve     51.000     81.000    1.588 -0.395      3       0.015
+     source_republican_approve     60.000     89.000    1.483 -0.358      3       0.015
+                   rep.approve     60.000     89.000    1.483 -0.358      3       0.015
+                   out.approve     37.000     72.000    1.946  0.350      2       0.017
+                      month_id 24,085.000 24,120.000    1.001  0.329      3       0.009
+                   event_month 24,083.000 24,113.000    1.001  0.325      3       0.009
+                        pollid 10,359.000 11,714.000      NaN -0.315      3         NaN
+source_independent_composition     27.000     56.000    2.074  0.309      3       0.019
+ source_independent_disapprove     45.000     84.000    1.867  0.277      3       0.018
+                ind.disapprove     45.000     84.000    1.867  0.277      3       0.018
+                        dwnom1      0.260      0.665      NaN -0.275      2         NaN
+                         icpsr     41.000     73.000    1.780 -0.263      3       0.017
+                  source_row.x  1,029.000  2,326.000    2.260  0.251      3       0.021
+                   source_year  2,007.000  2,009.000    1.001  0.244      3       0.009
+                          year  2,007.000  2,009.000    1.001  0.244      3       0.009
+                       bootse2      0.142      0.351    2.472  0.154      2       0.019
+                source_poll_id 13,912.000 16,142.000    1.160 -0.134      1       0.007
+                   dem.approve     46.000     96.000    2.087  0.127      3       0.018
+       source_democrat_approve     46.000     96.000    2.087  0.127      3       0.018
+                dem.disapprove     47.000     89.000    1.894  0.110      3       0.018
+    source_democrat_disapprove     47.000     89.000    1.894  0.110      3       0.018
+                   ind.approve     46.000     84.000    1.826  0.070      3       0.016
+    source_independent_approve     46.000     84.000    1.826  0.070      3       0.016
+   source_democrat_composition     38.000     55.000    1.447  0.063      3       0.013
+                  source_row.y    139.000    277.000    1.993 -0.039      3       0.019
+                relative_month     -1.000     12.000      NaN  0.023      3         NaN
+                           gap     31.000     71.000      NaN  0.007      3         NaN
+                  source_month      7.000     12.000    1.714  0.003      3       0.017
+                       month.n      7.000     12.000    1.714  0.003      3       0.017
+
+'top_n_mass' is the share of the total held by the n_top largest values
+(n_top = max(1, n/100), so it is a single value below n = 200). Both it
+and max/med are blank for columns with negative values, where neither is
+interpretable.
+
+1 column(s) are heavily skewed. Before choosing a method,
+decide whether the MEAN or the MEDIAN is the estimand -- see
+checks/tier2-statistical.md section F. Asymptotic SEs are optimistic here.
+
+========================================================================
+7. RATE COLUMNS AND THEIR RECONSTRUCTED DENOMINATORS
+========================================================================
+no columns whose name suggests a rate; skipping
+
+========================================================================
+8. LEVERAGE ON THE HEADLINE OUTCOME
+========================================================================
+no --covariates given; skipping
+
+========================================================================
+SUMMARY
+========================================================================
+no hard failures. The soft findings above still need judgement --
+this script narrows where to look, it does not decide.

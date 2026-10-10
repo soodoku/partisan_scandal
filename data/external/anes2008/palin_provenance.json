@@ -1,0 +1,528 @@
+{
+  "source": "/Users/soodoku/Documents/GitHub/partisan_campaigns/data/raw/nes08panel.Rdata",
+  "source_sha256": "ef2655a1641191390b792e209b0a976abd7633df28447e6e9645ebbc24bd41df",
+  "source_object": "nes08p",
+  "source_version": "ANES_2008-09Panel_VERSION:20100903",
+  "source_dimensions": [4240, 5739],
+  "export": "data/external/anes2008/palin.csv",
+  "export_sha256": "f9b8399ce05dbf6daaa055f4f00c2704d1cc2937f00efde31163015bfab1e3d2",
+  "script": "scripts/import_anes_panel.R",
+  "export_rows": 4240,
+  "official_documentation": {
+    "study": "https://electionstudies.org/data-center/2008-2009-panel-study/",
+    "variables": "https://electionstudies.org/wp-content/uploads/2009/03/anes_specialstudy_2008_2009panel_variable_list.txt",
+    "questionnaire": "https://electionstudies.org/wp-content/uploads/2009/03/anes_specialstudy_2008_2009panel_qnaire.pdf",
+    "derived_code": "https://electionstudies.org/wp-content/uploads/2009/03/anes_specialstudy_2008_2009panel_DerivedVarCode.txt",
+    "methodology": "https://electionstudies.org/wp-content/uploads/2009/03/anes_specialstudy_2008_2009panel_MethodologyRpt.pdf"
+  },
+  "mapping": {
+    "id": "caseid",
+    "date9": "w9date: YYYYMMDD, actual interview date",
+    "date10": "w10date: YYYYMMDD, actual interview date",
+    "palin9": ["w9e65", "w9e66", "w9e67"],
+    "palin10": ["w10e71", "w10e72", "w10e73"],
+    "party": "der08w9, pre-October milestone: 0-2 Democrat including leaners; 3 independent; 4-6 Republican including leaners",
+    "weight_longitudinal": "wgtl10: September-October cumulative late-panel weight, both cohorts",
+    "weight_baseline": "wgtcs_w9: archived wave9 cross-sectional weight; final-release variable list calls this wgtcs09",
+    "strata": "stratum: 1 higher-density Black/Hispanic; 2 other",
+    "cohort": "reccohor: archived spelling, values1/2"
+  },
+  "rating_formula": "direction1:100*(7-like)/6; direction2:100*(dislike-1)/6; direction3:50; require only applicable intensity branch",
+  "negative_codes": {
+    "-9": "Refused",
+    "-8": "Don't know",
+    "-7": "No answer",
+    "-6": "Not asked, unit nonresponse",
+    "-5": "Not asked, terminated",
+    "-4": "Error; see documentation",
+    "-3": "Restricted access",
+    "-2": "Missing; see documentation",
+    "-1": "Inapplicable"
+  },
+  "missing_rules": "Negative item/PID codes are nonresponse; retained in raw-code fields, never numeric ratings. Structural missing unused intensity branches do not invalidate a rating. Date strings without 8 digits are missing. Zero/nonfinite weights are retained but flagged ineligible for weighted analysis.",
+  "milestone": "2008-10-10, candidate report-release milestone; same-day follow-up excluded because within-day order unknown; this is not original scandal onset",
+  "selection": "All 4240 source rows retained. Paired-count reproduction uses two ratings and two dates. Suggested unweighted eligibility additionally requires September PID partisan, baseline before milestone, follow-up before 2008-11-04 and not milestone day. Weighted eligibility additionally requires positive wgtl10 and valid stratum. These are feasibility flags, not preregistered inclusion decisions.",
+  "caution": "Within-person data do not randomize interview timing or eliminate concurrent campaign events. September baseline occurs after the scandal's earlier public history. No effect estimates are calculated.",
+  "counts": [
+    {
+      "sample": "All rows",
+      "party": "All",
+      "phase": "Before October 10",
+      "n": 1949
+    },
+    {
+      "sample": "All rows",
+      "party": "All",
+      "phase": "October 10",
+      "n": 55
+    },
+    {
+      "sample": "All rows",
+      "party": "All",
+      "phase": "After October 10",
+      "n": 710
+    },
+    {
+      "sample": "All rows",
+      "party": "All",
+      "phase": "Missing date",
+      "n": 1526
+    },
+    {
+      "sample": "All rows",
+      "party": "Democrat",
+      "phase": "Before October 10",
+      "n": 847
+    },
+    {
+      "sample": "All rows",
+      "party": "Democrat",
+      "phase": "October 10",
+      "n": 21
+    },
+    {
+      "sample": "All rows",
+      "party": "Democrat",
+      "phase": "After October 10",
+      "n": 288
+    },
+    {
+      "sample": "All rows",
+      "party": "Democrat",
+      "phase": "Missing date",
+      "n": 101
+    },
+    {
+      "sample": "All rows",
+      "party": "Republican",
+      "phase": "Before October 10",
+      "n": 795
+    },
+    {
+      "sample": "All rows",
+      "party": "Republican",
+      "phase": "October 10",
+      "n": 22
+    },
+    {
+      "sample": "All rows",
+      "party": "Republican",
+      "phase": "After October 10",
+      "n": 238
+    },
+    {
+      "sample": "All rows",
+      "party": "Republican",
+      "phase": "Missing date",
+      "n": 87
+    },
+    {
+      "sample": "All rows",
+      "party": "Independent",
+      "phase": "Before October 10",
+      "n": 220
+    },
+    {
+      "sample": "All rows",
+      "party": "Independent",
+      "phase": "October 10",
+      "n": 9
+    },
+    {
+      "sample": "All rows",
+      "party": "Independent",
+      "phase": "After October 10",
+      "n": 72
+    },
+    {
+      "sample": "All rows",
+      "party": "Independent",
+      "phase": "Missing date",
+      "n": 33
+    },
+    {
+      "sample": "All rows",
+      "party": "Missing PID",
+      "phase": "Before October 10",
+      "n": 87
+    },
+    {
+      "sample": "All rows",
+      "party": "Missing PID",
+      "phase": "October 10",
+      "n": 3
+    },
+    {
+      "sample": "All rows",
+      "party": "Missing PID",
+      "phase": "After October 10",
+      "n": 112
+    },
+    {
+      "sample": "All rows",
+      "party": "Missing PID",
+      "phase": "Missing date",
+      "n": 1305
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "All",
+      "phase": "Before October 10",
+      "n": 1858
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "All",
+      "phase": "October 10",
+      "n": 52
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "All",
+      "phase": "After October 10",
+      "n": 591
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "All",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Democrat",
+      "phase": "Before October 10",
+      "n": 846
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Democrat",
+      "phase": "October 10",
+      "n": 21
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Democrat",
+      "phase": "After October 10",
+      "n": 282
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Democrat",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Republican",
+      "phase": "Before October 10",
+      "n": 794
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Republican",
+      "phase": "October 10",
+      "n": 22
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Republican",
+      "phase": "After October 10",
+      "n": 234
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Republican",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Independent",
+      "phase": "Before October 10",
+      "n": 216
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Independent",
+      "phase": "October 10",
+      "n": 9
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Independent",
+      "phase": "After October 10",
+      "n": 71
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Independent",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Missing PID",
+      "phase": "Before October 10",
+      "n": 2
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Missing PID",
+      "phase": "October 10",
+      "n": 0
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Missing PID",
+      "phase": "After October 10",
+      "n": 4
+    },
+    {
+      "sample": "Paired ratings and dates",
+      "party": "Missing PID",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "All",
+      "phase": "Before October 10",
+      "n": 1640
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "All",
+      "phase": "October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "All",
+      "phase": "After October 10",
+      "n": 509
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "All",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Democrat",
+      "phase": "Before October 10",
+      "n": 846
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Democrat",
+      "phase": "October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Democrat",
+      "phase": "After October 10",
+      "n": 278
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Democrat",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Republican",
+      "phase": "Before October 10",
+      "n": 794
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Republican",
+      "phase": "October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Republican",
+      "phase": "After October 10",
+      "n": 231
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Republican",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Independent",
+      "phase": "Before October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Independent",
+      "phase": "October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Independent",
+      "phase": "After October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Independent",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Missing PID",
+      "phase": "Before October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Missing PID",
+      "phase": "October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Missing PID",
+      "phase": "After October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible unweighted",
+      "party": "Missing PID",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "All",
+      "phase": "Before October 10",
+      "n": 1594
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "All",
+      "phase": "October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "All",
+      "phase": "After October 10",
+      "n": 471
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "All",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Democrat",
+      "phase": "Before October 10",
+      "n": 823
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Democrat",
+      "phase": "October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Democrat",
+      "phase": "After October 10",
+      "n": 257
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Democrat",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Republican",
+      "phase": "Before October 10",
+      "n": 771
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Republican",
+      "phase": "October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Republican",
+      "phase": "After October 10",
+      "n": 214
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Republican",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Independent",
+      "phase": "Before October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Independent",
+      "phase": "October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Independent",
+      "phase": "After October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Independent",
+      "phase": "Missing date",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Missing PID",
+      "phase": "Before October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Missing PID",
+      "phase": "October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Missing PID",
+      "phase": "After October 10",
+      "n": 0
+    },
+    {
+      "sample": "Eligible weighted",
+      "party": "Missing PID",
+      "phase": "Missing date",
+      "n": 0
+    }
+  ]
+}

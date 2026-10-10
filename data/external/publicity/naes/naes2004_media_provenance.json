@@ -1,0 +1,447 @@
+{
+  "source_url": "https://dataverse.harvard.edu/api/access/datafile/10917573",
+  "source_doi": "10.7910/DVN/LQ1TDN",
+  "source_sha256": "ad47ec8108514f8276fa245c749cb0e65e6100de5ff27f3d72fdc0fdd4d319f6",
+  "source_md5": "010913fba478fb03988ef157a7226664",
+  "rows": 81422,
+  "output_sha256": "5481075954037cb220aebe21c2b0bb01e7b2aa626cb07dbc0820dbb8be026685",
+  "definitions": {
+    "cKEY": {
+      "label": "Respondent ID",
+      "codes": []
+    },
+    "cINT": {
+      "label": "Interviewing Component",
+      "codes": {
+        "National Rolling Cross-Section": 101
+      }
+    },
+    "cDATE": {
+      "label": "Interview Date",
+      "codes": []
+    },
+    "cTIME": {
+      "label": "Interview Start Time",
+      "codes": {
+        "Interview completed in multiple sessions": 9999
+      }
+    },
+    "cXA": {
+      "label": "Random Assignment to Question Module A1 or A2",
+      "codes": {
+        "Question module A1": 1,
+        "Question module A2": 2
+      }
+    },
+    "cXB": {
+      "label": "Random Assignment to Question Module B1, B2, or B3",
+      "codes": {
+        "Question module B1": 1,
+        "Question module B2": 2,
+        "Question module B3": 3
+      }
+    },
+    "cXC": {
+      "label": "Random Assignment to Question Module C1, C2, C3, or C4",
+      "codes": {
+        "Question module C1": 1,
+        "Question module C2": 2,
+        "Question module C3": 3,
+        "Question module C4": 4
+      }
+    },
+    "cAA01": {
+      "label": "Bush Favorability",
+      "codes": {
+        "Do not recognize name": 11,
+        "Know name but cannot rate": 12,
+        "Refused": 999
+      }
+    },
+    "cAB01": {
+      "label": "Kerry Favorability",
+      "codes": {
+        "Do not recognize name": 11,
+        "Know name but cannot rate": 12,
+        "Refused": 999
+      }
+    },
+    "cDA05": {
+      "label": "Don't-Know Prompt for cDA04",
+      "codes": {
+        "Respondent answered without prompting": 0,
+        "Respondent said don't know and was prompted, \"Anyone come to mind?\"": 1
+      }
+    },
+    "cDA06": {
+      "label": "Approve of Kerry's Anti-War Activities",
+      "codes": {
+        "Approve": 1,
+        "Disapprove": 2,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cDA07": {
+      "label": "Kerry's Anti-War Activities Will Affect Vote",
+      "codes": {
+        "Great deal": 1,
+        "Some": 2,
+        "Not much": 3,
+        "Not at all": 4,
+        "Would not vote": 5,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cDA08": {
+      "label": "Kerry Earned Vietnam Medals",
+      "codes": {
+        "Yes": 1,
+        "No": 2,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cDA09": {
+      "label": "Familiar With Kerry's Anti-War Statements",
+      "codes": {
+        "Yes": 1,
+        "No": 2,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cDA10": {
+      "label": "Approve of Kerry's Anti-War Statements (Wording #1)",
+      "codes": {
+        "Strongly approve": 1,
+        "Somewhat approve": 2,
+        "Somewhat disapprove": 3,
+        "Strongly disapprove": 4,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cDA11": {
+      "label": "Approve of Kerry's Anti-War Statements (Wording #2)",
+      "codes": {
+        "Strongly approve": 1,
+        "Somewhat approve": 2,
+        "Somewhat disapprove": 3,
+        "Strongly disapprove": 4,
+        "Neither approve nor disapprove": 5,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cDA12": {
+      "label": "Watched or Familiar With Swift Boat Ad",
+      "codes": {
+        "Yes, seen": 1,
+        "Heard": 2,
+        "Have not seen or heard": 3,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cDA13": {
+      "label": "Swift Boat Ad Believable",
+      "codes": {
+        "Very believable": 1,
+        "Somewhat believable": 2,
+        "Somewhat unbelievable": 3,
+        "Very unbelievable": 4,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cDA14": {
+      "label": "Bush Campaign Behind Swift Boat Ad",
+      "codes": {
+        "Bush behind": 1,
+        "No connection": 2,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cDA15": {
+      "label": "Bush Fulfilled National Guard Obligations",
+      "codes": {
+        "Yes": 1,
+        "No": 2,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cDA16": {
+      "label": "Bush in National Guard Will Affect Vote",
+      "codes": {
+        "Great deal": 1,
+        "Some": 2,
+        "Not much": 3,
+        "Not at all": 4,
+        "Would not vote": 5,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cEA01": {
+      "label": "Watched Network News in Past Week",
+      "codes": {
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cEA02": {
+      "label": "Network News Channel Watched Most",
+      "codes": {
+        "abc": 1,
+        "cbs": 2,
+        "nbc": 3,
+        "pbs": 4,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cEA03": {
+      "label": "Watched Cable News in Past Week",
+      "codes": {
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cEA04": {
+      "label": "Cable News Channel Watched Most",
+      "codes": {
+        "fox": 1,
+        "cnn": 2,
+        "msnbc": 3,
+        "All three equally": 4,
+        "Other": 5,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cEA05": {
+      "label": "Attention to Political News on Network or Cable TV in Past Week",
+      "codes": {
+        "Great deal": 1,
+        "Some": 2,
+        "Not much": 3,
+        "None": 4,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cEA06": {
+      "label": "Watched Local News in Past Week",
+      "codes": {
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cEA07": {
+      "label": "Attention to Political News on Local TV in Past Week",
+      "codes": {
+        "Great deal": 1,
+        "Some": 2,
+        "Not much": 3,
+        "None": 4,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cEA10": {
+      "label": "Read Newspaper in Past Week",
+      "codes": {
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cEA13": {
+      "label": "Attention to Political News in Newspaper in Past Week",
+      "codes": {
+        "Great deal": 1,
+        "Some": 2,
+        "Not much": 3,
+        "None": 4,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cEA15": {
+      "label": "Listened to Talk Radio Other Than NPR in Past Week",
+      "codes": {
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cEA17": {
+      "label": "Talk Radio Program Listen to Most",
+      "codes": {
+        "\"All Things Considered\"": 1,
+        "Art Bell": 2,
+        "Jim Bohannon": 3,
+        "Bob Brinker": 4,
+        "Dr. Joy Browne": 5,
+        "Howie Carr": 6,
+        "Ken and Daria Dolan": 7,
+        "Don and Mike": 8,
+        "Dr. Dean Edell": 9,
+        "Sean Hannity": 10,
+        "Don Imus": 11,
+        "John and Ken": 12,
+        "Tom Joyner": 13,
+        "Tom Leykis": 14,
+        "G. Gordon Liddy": 15,
+        "Rush Limbaugh": 16,
+        "\"Morning Edition\" with Bob Edwards": 17,
+        "NPR (unspecified)": 18,
+        "Bill O'Reilly": 19,
+        "Diane Rehm": 20,
+        "Michael Savage": 21,
+        "Tavis Smiley": 22,
+        "Doug Stephan": 23,
+        "Howard Stern": 24,
+        "\"Talk of the Nation\"": 25,
+        "Armstrong Williams": 26,
+        "Bruce Williams": 27,
+        "Other": 28,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cEA18": {
+      "label": "Watched Late-Night Comedy in Past Week",
+      "codes": {
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cMA01": {
+      "label": "Party ID",
+      "codes": {
+        "Republican": 1,
+        "Democrat": 2,
+        "Independent": 3,
+        "Something else": 4,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cMA02": {
+      "label": "Strength of Party ID",
+      "codes": {
+        "Strong": 1,
+        "Not strong": 2,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cMA03": {
+      "label": "Lean Republican or Democrat",
+      "codes": {
+        "Republican": 1,
+        "Democratic": 2,
+        "Neither Republican nor Democrat": 3,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cMA04": {
+      "label": "Lean Independent or Democrat",
+      "codes": {
+        "Independent": 1,
+        "Democrat": 2,
+        "Republican": 3,
+        "Other": 4,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cMA05": {
+      "label": "Lean Independent or Republican",
+      "codes": {
+        "Independent": 1,
+        "Republican": 2,
+        "Democrat": 3,
+        "Other": 4,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    },
+    "cMA06": {
+      "label": "Conservative or Liberal",
+      "codes": {
+        "Very conservative": 1,
+        "Conservative": 2,
+        "Moderate": 3,
+        "Liberal": 4,
+        "Very liberal": 5,
+        "Don't know": 998,
+        "Refused": 999
+      }
+    }
+  },
+  "codebook_source": "https://dataverse.harvard.edu/api/access/datafile/10917578",
+  "codebook_sha256": "f1c8637b15c3cd58bde0483582ea59be2eee96180a2fcac8a32b2657f80917ab",
+  "note": "All 81,422 original rolling cross-section respondents retained. Every ID, date, Bush rating, and Kerry rating matches the local historical source exactly, including missingness. All 39 exported fields match Darr replication for all 63,513 shared respondents. Source names are lowercase; export capitalizes them to match official codebook. No substantive recoding. Official NAES04 was distributed unweighted (codebook p47).",
+  "questionnaire": {
+    "cEA01": {
+      "pages": [
+        249
+      ],
+      "schedule": "All dates",
+      "range": "0-7; 998 do not know, 999 refused",
+      "meaning": "Days watching national network news during preceding week"
+    },
+    "cEA02": {
+      "pages": [
+        249
+      ],
+      "schedule": "All dates, if cEA01=1-7",
+      "meaning": "National-network news program watched most often; measured at current interview"
+    },
+    "cDA08": {
+      "pages": [
+        242
+      ],
+      "schedule": "2004-08-09 through 2004-09-04",
+      "meaning": "Belief Kerry earned his Vietnam medals; no awareness filter"
+    },
+    "cDA12": {
+      "pages": [
+        243
+      ],
+      "schedule": "2004-08-09 through 2004-08-16",
+      "meaning": "Seen or heard ad alleging Kerry lied about war record"
+    },
+    "cDA13": {
+      "pages": [
+        243
+      ],
+      "schedule": "2004-08-09 through 2004-08-16, if cDA12=1 or 2",
+      "meaning": "Believability conditional on awareness"
+    },
+    "cDA14": {
+      "pages": [
+        243
+      ],
+      "schedule": "2004-08-23 through 2004-08-30",
+      "meaning": "Attribution of ads to Bush campaign"
+    }
+  },
+  "source_citation": "Macdonald, David. 2025. Replication Data for: Why Do Some Union Members Vote Republican? The Role of Workplace Political Discussion. Harvard Dataverse, V1. doi:10.7910/DVN/LQ1TDN.",
+  "paper_citation": {
+    "author": "David Macdonald",
+    "year": 2025,
+    "title": "Why Do Some Union Members Vote Republican? The Role of Workplace Political Discussion",
+    "journal": "Public Opinion Quarterly",
+    "volume": 89,
+    "issue": 3,
+    "pages": "784-811",
+    "doi": "10.1093/poq/nfaf042",
+    "verified_url": "https://academic.oup.com/poq/article-abstract/89/3/784/8317482"
+  }
+}

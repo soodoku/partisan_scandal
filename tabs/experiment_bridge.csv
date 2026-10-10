@@ -1,0 +1,321 @@
+"sample","strength","contrast","standardized","inference","outcome","estimate","se","df","lower","upper","p","n"
+"All assigned","All","Nonresponse versus control",FALSE,"Welch cell contrast","polarization",1.80047682202854,1.7918941289557,265.807950398093,-1.72763518106488,5.32858882512196,0.315911916842395,275
+"All assigned","All","Nonresponse versus control",FALSE,"HC3 cell contrast","polarization",1.80047682202854,1.79850506109491,273,-1.74022501990844,5.34117866396553,0.317666734786107,275
+"All assigned","All","Nonresponse versus control",FALSE,"Welch cell contrast","raw_gap",3.60095364405709,3.5837882579114,265.807950398093,-3.45527036212975,10.6571776502439,0.315911916842393,275
+"All assigned","All","Nonresponse versus control",FALSE,"HC3 cell contrast","raw_gap",3.60095364405709,3.59701012218983,273,-3.48045003981687,10.6823573279311,0.317666734786106,275
+"All assigned","All","Nonresponse versus control",FALSE,"Welch cell contrast","in_seven",1.48162182644941,2.28183745062426,266.597336101029,-3.01109286424403,5.97433651714285,0.516696471205059,275
+"All assigned","All","Nonresponse versus control",FALSE,"HC3 cell contrast","in_seven",1.48162182644941,2.29025159491112,273,-3.02717729567491,5.99042094857373,0.518223805886035,275
+"All assigned","All","Nonresponse versus control",FALSE,"Welch cell contrast","out_seven",-2.11933181760768,2.21039451176966,268.156661282953,-6.47126695464783,2.23260331943247,0.33852190912061,275
+"All assigned","All","Nonresponse versus control",FALSE,"HC3 cell contrast","out_seven",-2.11933181760768,2.21853607943933,273,-6.48694520541339,2.24828157019803,0.340279264952038,275
+"All assigned","All","Nonresponse versus control",FALSE,"Welch cell contrast","out_ft",0.206896551724139,2.57708607208078,261.359515963577,-4.8675975205985,5.28139062404677,0.936073509813579,275
+"All assigned","All","Nonresponse versus control",FALSE,"HC3 cell contrast","out_ft",0.206896551724139,2.58661794708547,273,-4.88535652431513,5.2991496277634,0.936305969963482,275
+"All assigned","All","Nonresponse versus response",FALSE,"Welch cell contrast","polarization",1.31410256410255,1.75994192390247,268.225363475204,-2.15095499170744,4.77916011991255,0.45591444490676,286
+"All assigned","All","Nonresponse versus response",FALSE,"HC3 cell contrast","polarization",1.31410256410255,1.76626570448696,284,-2.16253034755304,4.79073547575815,0.457491284373306,286
+"All assigned","All","Nonresponse versus response",FALSE,"Welch cell contrast","raw_gap",2.62820512820512,3.51988384780494,268.225363475204,-4.30190998341486,9.55832023982511,0.455914444906758,286
+"All assigned","All","Nonresponse versus response",FALSE,"HC3 cell contrast","raw_gap",2.62820512820512,3.53253140897391,284,-4.32506069510606,9.5814709515163,0.457491284373303,286
+"All assigned","All","Nonresponse versus response",FALSE,"Welch cell contrast","in_seven",0.810439560439562,2.15589326842378,256.874873188032,-3.43503608551791,5.05591520639704,0.707287959900134,286
+"All assigned","All","Nonresponse versus response",FALSE,"HC3 cell contrast","in_seven",0.810439560439562,2.16369710407159,284,-3.44847830438656,5.06935742526569,0.70826547480043,286
+"All assigned","All","Nonresponse versus response",FALSE,"Welch cell contrast","out_seven",-1.81776556776557,2.21663242686428,276.435353699622,-6.1813897949751,2.54585865944397,0.412889976383234,286
+"All assigned","All","Nonresponse versus response",FALSE,"HC3 cell contrast","out_seven",-1.81776556776557,2.22454205991677,284,-6.19644773275457,2.56091659722344,0.41453253951304,286
+"All assigned","All","Nonresponse versus response",FALSE,"Welch cell contrast","out_ft",-0.819230769230767,2.65706853409293,275.130713906079,-6.04999895579472,4.41153741733318,0.758071182652935,286
+"All assigned","All","Nonresponse versus response",FALSE,"HC3 cell contrast","out_ft",-0.819230769230767,2.66656188360327,284,-6.06796360820884,4.42950206974731,0.758898332140523,286
+"All assigned","Strong","Nonresponse versus control",FALSE,"Welch cell contrast","polarization",9.46307094266277,2.96325830335084,88.6733499958434,3.57484093874376,15.3513009465818,0.00194638622532005,91
+"All assigned","Strong","Nonresponse versus control",FALSE,"HC3 cell contrast","polarization",9.46307094266277,2.99652603000228,89,3.50903754853212,15.4171043367934,0.00216948192906514,91
+"All assigned","Strong","Nonresponse versus control",FALSE,"Welch cell contrast","raw_gap",18.9261418853256,5.92651660670167,88.6733499958434,7.14968187748755,30.7026018931636,0.00194638622532002,91
+"All assigned","Strong","Nonresponse versus control",FALSE,"HC3 cell contrast","raw_gap",18.9261418853256,5.99305206000455,89,7.01807509706428,30.8342086735869,0.00216948192906511,91
+"All assigned","Strong","Nonresponse versus control",FALSE,"Welch cell contrast","in_seven",10.6656948493683,3.447809192641,88.2444730670299,3.81416314108768,17.517226557649,0.00264932549681208,91
+"All assigned","Strong","Nonresponse versus control",FALSE,"HC3 cell contrast","in_seven",10.6656948493683,3.48661306668207,89,3.73786895245077,17.5935207462859,0.00293357139384775,91
+"All assigned","Strong","Nonresponse versus control",FALSE,"Welch cell contrast","out_seven",-8.26044703595724,3.44019617930768,87.4551028890843,-15.0977077766665,-1.42318629524802,0.0184616912256541,91
+"All assigned","Strong","Nonresponse versus control",FALSE,"HC3 cell contrast","out_seven",-8.26044703595724,3.47903614386184,89,-15.1732177486232,-1.3476763232913,0.0197289654965577,91
+"All assigned","Strong","Nonresponse versus control",FALSE,"Welch cell contrast","out_ft",-5.078231292517,4.1812933744109,85.1074381785082,-13.3916112175881,3.23514863255411,0.227911314181517,91
+"All assigned","Strong","Nonresponse versus control",FALSE,"HC3 cell contrast","out_ft",-5.078231292517,4.22879705645483,89,-13.4807609682276,3.32429838319361,0.232988310079116,91
+"All assigned","Strong","Nonresponse versus response",FALSE,"Welch cell contrast","polarization",5.47503092145949,2.8919213715583,83.7492613455206,-0.27612344334134,11.2261852862603,0.0617827554478662,86
+"All assigned","Strong","Nonresponse versus response",FALSE,"HC3 cell contrast","polarization",5.47503092145949,2.92619082367136,84,-0.34402043790898,11.294082280828,0.0648207142934244,86
+"All assigned","Strong","Nonresponse versus response",FALSE,"Welch cell contrast","raw_gap",10.950061842919,5.78384274311659,83.7492613455206,-0.552246886682674,22.4523705725207,0.0617827554478659,86
+"All assigned","Strong","Nonresponse versus response",FALSE,"HC3 cell contrast","raw_gap",10.950061842919,5.85238164734271,84,-0.688040875817952,22.5881645616559,0.0648207142934243,86
+"All assigned","Strong","Nonresponse versus response",FALSE,"Welch cell contrast","in_seven",8.65800865800865,3.41043026548603,83.7011028577842,1.87564020147512,15.4403771145422,0.0129781156599426,86
+"All assigned","Strong","Nonresponse versus response",FALSE,"HC3 cell contrast","in_seven",8.65800865800865,3.45084889841601,84,1.7956171793461,15.5204001366712,0.0140303384645475,86
+"All assigned","Strong","Nonresponse versus response",FALSE,"Welch cell contrast","out_seven",-2.29205318491033,3.37139617192476,82.7851202596489,-8.99788198743714,4.41377561761649,0.498494380048384,86
+"All assigned","Strong","Nonresponse versus response",FALSE,"HC3 cell contrast","out_seven",-2.29205318491033,3.41141018033461,84,-9.07601644754309,4.49191007772243,0.503504791781346,86
+"All assigned","Strong","Nonresponse versus response",FALSE,"Welch cell contrast","out_ft",-5.50541125541125,4.76902321542233,83.0997775717236,-14.9906381924896,3.97981568166705,0.251640906223951,86
+"All assigned","Strong","Nonresponse versus response",FALSE,"HC3 cell contrast","out_ft",-5.50541125541125,4.82532423463322,84,-15.101097674695,4.09027516387254,0.257136788124291,86
+"All assigned","Weak","Nonresponse versus control",FALSE,"Welch cell contrast","polarization",-1.74005681818182,1.98465573390307,181.941121215117,-5.65595792758707,2.17584429122343,0.381775892991377,184
+"All assigned","Weak","Nonresponse versus control",FALSE,"HC3 cell contrast","polarization",-1.74005681818182,1.99553922529705,182,-5.67742348931464,2.197309852951,0.384371821885397,184
+"All assigned","Weak","Nonresponse versus control",FALSE,"Welch cell contrast","raw_gap",-3.48011363636363,3.96931146780613,181.941121215117,-11.3119158551741,4.35168858244687,0.381775892991378,184
+"All assigned","Weak","Nonresponse versus control",FALSE,"HC3 cell contrast","raw_gap",-3.48011363636363,3.9910784505941,182,-11.3548469786293,4.39461970590201,0.384371821885398,184
+"All assigned","Weak","Nonresponse versus control",FALSE,"Welch cell contrast","in_seven",-2.74959415584415,2.65744298437186,181.999819228941,-7.99295262959393,2.49376431790563,0.302192799305465,184
+"All assigned","Weak","Nonresponse versus control",FALSE,"HC3 cell contrast","in_seven",-2.74959415584415,2.67200506157108,182,-8.02168479739098,2.52249648570268,0.304827540773165,184
+"All assigned","Weak","Nonresponse versus control",FALSE,"Welch cell contrast","out_seven",0.730519480519483,2.72614425624173,181.351319655409,-4.64852112310222,6.10956008414118,0.789028477227641,184
+"All assigned","Weak","Nonresponse versus control",FALSE,"HC3 cell contrast","out_seven",0.730519480519483,2.74112134558668,182,-4.67794340050316,6.13898236154212,0.79015286761924,184
+"All assigned","Weak","Nonresponse versus control",FALSE,"Welch cell contrast","out_ft",2.59564393939394,3.13169099749754,177.453889138504,-3.58450540225859,8.77579328104646,0.408313228529167,184
+"All assigned","Weak","Nonresponse versus control",FALSE,"HC3 cell contrast","out_ft",2.59564393939394,3.14897159181591,182,-3.61754176840113,8.808829647189,0.410857677245642,184
+"All assigned","Weak","Nonresponse versus response",FALSE,"Welch cell contrast","polarization",-1.26439780457637,1.90239767510017,191.60933799446,-5.01672882635491,2.48793321720217,0.507083830605307,200
+"All assigned","Weak","Nonresponse versus response",FALSE,"HC3 cell contrast","polarization",-1.26439780457637,1.91219478694812,198,-5.03527934546555,2.50648373631281,0.509234433891362,200
+"All assigned","Weak","Nonresponse versus response",FALSE,"Welch cell contrast","raw_gap",-2.52879560915275,3.80479535020035,191.60933799446,-10.0334576527098,4.97586643440434,0.507083830605305,200
+"All assigned","Weak","Nonresponse versus response",FALSE,"HC3 cell contrast","raw_gap",-2.52879560915275,3.82438957389624,198,-10.0705586909311,5.0129674726256,0.50923443389136,200
+"All assigned","Weak","Nonresponse versus response",FALSE,"Welch cell contrast","in_seven",-3.43518089053803,2.41332945319434,183.24616811788,-8.19666607981355,1.3263042987375,0.156314872599818,200
+"All assigned","Weak","Nonresponse versus response",FALSE,"HC3 cell contrast","in_seven",-3.43518089053803,2.42590753255074,198,-8.21911294434285,1.34875116326679,0.1583351139763,200
+"All assigned","Weak","Nonresponse versus response",FALSE,"Welch cell contrast","out_seven",-0.90638528138528,2.66418154578301,191.366801462193,-6.16131789440616,4.3485473316356,0.734070383236458,200
+"All assigned","Weak","Nonresponse versus response",FALSE,"HC3 cell contrast","out_seven",-0.90638528138528,2.67790755482799,198,-6.18726578353598,4.37449522076542,0.735369383034541,200
+"All assigned","Weak","Nonresponse versus response",FALSE,"Welch cell contrast","out_ft",1.80844155844156,3.11149250034684,186.038653475856,-4.32990284940852,7.94678596629165,0.561800039615745,200
+"All assigned","Weak","Nonresponse versus response",FALSE,"HC3 cell contrast","out_ft",1.80844155844156,3.12765172590492,198,-4.35934230962785,7.97622542651097,0.563778953894805,200
+"All assigned","Strong minus weak","Nonresponse versus control",FALSE,"Welch cell contrast","polarization",11.2031277608446,3.56647699480762,169.450853509254,4.16267901927872,18.2435765024104,0.00198581475570504,275
+"All assigned","Strong minus weak","Nonresponse versus control",FALSE,"HC3 cell contrast","polarization",11.2031277608446,3.60018680740046,271,4.11523725283177,18.2910182688574,0.00205815232190145,275
+"All assigned","Strong minus weak","Nonresponse versus control",FALSE,"Welch cell contrast","raw_gap",22.4062555216892,7.13295398961524,169.450853509254,8.32535803855749,36.4871530048209,0.00198581475570501,275
+"All assigned","Strong minus weak","Nonresponse versus control",FALSE,"HC3 cell contrast","raw_gap",22.4062555216892,7.20037361480093,271,8.23047450566358,36.5820365377148,0.00205815232190142,275
+"All assigned","Strong minus weak","Nonresponse versus control",FALSE,"Welch cell contrast","in_seven",13.4152890052125,4.35308987318744,191.471414486315,4.82911947568149,22.0014585347435,0.00236101951630805,275
+"All assigned","Strong minus weak","Nonresponse versus control",FALSE,"HC3 cell contrast","in_seven",13.4152890052125,4.39273055465728,271,4.76707299080667,22.0635050196183,0.00248310329945185,275
+"All assigned","Strong minus weak","Nonresponse versus control",FALSE,"Welch cell contrast","out_seven",-8.99096651647672,4.38939771016057,194.744615679759,-17.6478253508249,-0.334107682128575,0.041868757524225,275
+"All assigned","Strong minus weak","Nonresponse versus control",FALSE,"HC3 cell contrast","out_seven",-8.99096651647672,4.42915778918837,271,-17.7108988788607,-0.271034154092723,0.0433384514056775,275
+"All assigned","Strong minus weak","Nonresponse versus control",FALSE,"Welch cell contrast","out_ft",-7.67387523191094,5.22405041961691,180.180661483217,-17.9820625891434,2.6343121253215,0.14358976743333,275
+"All assigned","Strong minus weak","Nonresponse versus control",FALSE,"HC3 cell contrast","out_ft",-7.67387523191094,5.27245167173154,271,-18.0540477499603,2.70629728613845,0.146697649912372,275
+"All assigned","Strong minus weak","Nonresponse versus response",FALSE,"Welch cell contrast","polarization",6.73942872603585,3.46154967225695,158.909518437958,-0.0971486177969636,13.5760060698687,0.0533051622133673,286
+"All assigned","Strong minus weak","Nonresponse versus response",FALSE,"HC3 cell contrast","polarization",6.73942872603585,3.49558030086136,282,-0.141313137336486,13.6201705894082,0.0548608938003682,286
+"All assigned","Strong minus weak","Nonresponse versus response",FALSE,"Welch cell contrast","raw_gap",13.4788574520717,6.92309934451389,158.909518437958,-0.194297235593892,27.1520121397374,0.0533051622133667,286
+"All assigned","Strong minus weak","Nonresponse versus response",FALSE,"HC3 cell contrast","raw_gap",13.4788574520717,6.99116060172273,282,-0.282626274672937,27.2403411788164,0.0548608938003675,286
+"All assigned","Strong minus weak","Nonresponse versus response",FALSE,"Welch cell contrast","in_seven",12.0931895485467,4.17794131665326,169.14196374468,3.84556364727981,20.3408154498135,0.00429809159510308,286
+"All assigned","Strong minus weak","Nonresponse versus response",FALSE,"HC3 cell contrast","in_seven",12.0931895485467,4.21822065285653,282,3.78999381652481,20.3963852805685,0.00445774196721089,286
+"All assigned","Strong minus weak","Nonresponse versus response",FALSE,"Welch cell contrast","out_seven",-1.38566790352505,4.29699609692163,186.926914725291,-9.86250704065715,7.09117123360706,0.747454303669005,286
+"All assigned","Strong minus weak","Nonresponse versus response",FALSE,"HC3 cell contrast","out_seven",-1.38566790352505,4.33692382809469,282,-9.92252037831294,7.15118457126285,0.749580328283405,286
+"All assigned","Strong minus weak","Nonresponse versus response",FALSE,"Welch cell contrast","out_ft",-7.31385281385282,5.69429258195887,156.257305558777,-18.5615730342014,3.93386740649574,0.200896657219757,286
+"All assigned","Strong minus weak","Nonresponse versus response",FALSE,"HC3 cell contrast","out_ft",-7.31385281385282,5.75030079977515,282,-18.6328133395906,4.00510771188495,0.204453745165487,286
+"All assigned","All","Nonresponse versus control",TRUE,"Welch cell contrast","polarization",1.44215911211612,1.68916423763472,264.20154441331,-1.88377753576401,4.76809575999624,0.394005409090403,275
+"All assigned","All","Nonresponse versus control",TRUE,"HC3 cell contrast","polarization",1.44215911211612,1.7015987437136,271,-1.90787415816374,4.79219238239597,0.397446634370786,275
+"All assigned","All","Nonresponse versus control",TRUE,"Welch cell contrast","raw_gap",2.88431822423224,3.37832847526943,264.20154441331,-3.76755507152801,9.53619151999249,0.394005409090401,275
+"All assigned","All","Nonresponse versus control",TRUE,"HC3 cell contrast","raw_gap",2.88431822423224,3.4031974874272,271,-3.81574831632747,9.58438476479195,0.397446634370784,275
+"All assigned","All","Nonresponse versus control",TRUE,"Welch cell contrast","in_seven",1.1321507739163,2.17757792086366,264.434177836021,-3.15544703971003,5.41974858754263,0.603559265462842,275
+"All assigned","All","Nonresponse versus control",TRUE,"HC3 cell contrast","in_seven",1.1321507739163,2.19411402566568,271,-3.18752506736115,5.45182661519375,0.606278983125671,275
+"All assigned","All","Nonresponse versus control",TRUE,"Welch cell contrast","out_seven",-1.75216745031594,2.15245230248989,264.127658513115,-5.990316146098,2.48598124546612,0.416359252996447,275
+"All assigned","All","Nonresponse versus control",TRUE,"HC3 cell contrast","out_seven",-1.75216745031594,2.16768767006102,271,-6.01981623714536,2.51548133651348,0.419620122847001,275
+"All assigned","All","Nonresponse versus control",TRUE,"Welch cell contrast","out_ft",0.550749573756472,2.56130657620837,255.340139840468,-4.49322650055614,5.59472564806908,0.829918060278411,275
+"All assigned","All","Nonresponse versus control",TRUE,"HC3 cell contrast","out_ft",0.550749573756472,2.57932882754097,271,-4.52732034089113,5.62881948840407,0.831078530383948,275
+"All assigned","All","Nonresponse versus response",TRUE,"Welch cell contrast","polarization",1.68096802403922,1.70293646912486,250.133258847248,-1.67295392473922,5.03488997281766,0.324547642496613,286
+"All assigned","All","Nonresponse versus response",TRUE,"HC3 cell contrast","polarization",1.68096802403922,1.71696528153184,282,-1.69872686887509,5.06066291695352,0.328402142083131,286
+"All assigned","All","Nonresponse versus response",TRUE,"Welch cell contrast","raw_gap",3.36193604807844,3.40587293824971,250.133258847248,-3.34590784947845,10.0697799456353,0.324547642496613,286
+"All assigned","All","Nonresponse versus response",TRUE,"HC3 cell contrast","raw_gap",3.36193604807844,3.43393056306368,282,-3.39745373775017,10.121325833907,0.328402142083131,286
+"All assigned","All","Nonresponse versus response",TRUE,"Welch cell contrast","in_seven",1.15662105006444,2.10416745395765,245.945224409477,-2.98786572612942,5.3011078262583,0.583036919296555,286
+"All assigned","All","Nonresponse versus response",TRUE,"HC3 cell contrast","in_seven",1.15662105006444,2.12179941583174,282,-3.01995417053481,5.33319627066369,0.586106463079793,286
+"All assigned","All","Nonresponse versus response",TRUE,"Welch cell contrast","out_seven",-2.205314998014,2.19543603728284,252.275579087038,-6.52903304090174,2.11840304487373,0.316100281623586,286
+"All assigned","All","Nonresponse versus response",TRUE,"HC3 cell contrast","out_seven",-2.205314998014,2.2132687056611,282,-6.56193945724374,2.15130946121573,0.319906954327698,286
+"All assigned","All","Nonresponse versus response",TRUE,"Welch cell contrast","out_ft",-1.35980269799695,2.65830365497825,239.150097603973,-6.59648309453094,3.87687769853704,0.609451797359077,286
+"All assigned","All","Nonresponse versus response",TRUE,"HC3 cell contrast","out_ft",-1.35980269799695,2.68041587449332,282,-6.63596520364137,3.91635980764747,0.612333578528154,286
+"All assigned","Strong","Nonresponse versus control",TRUE,"Welch cell contrast","polarization",9.88119550066452,2.80712995846888,78.6746409914149,4.29338377914366,15.4690072221854,0.000720882135544732,91
+"All assigned","Strong","Nonresponse versus control",TRUE,"HC3 cell contrast","polarization",9.88119550066452,2.88417000662388,87,4.14859530998809,15.613795691341,0.000937024995334504,91
+"All assigned","Strong","Nonresponse versus control",TRUE,"Welch cell contrast","raw_gap",19.7623910013291,5.61425991693777,78.6746409914149,8.58676755828733,30.9380144443708,0.000720882135544731,91
+"All assigned","Strong","Nonresponse versus control",TRUE,"HC3 cell contrast","raw_gap",19.7623910013291,5.76834001324776,87,8.29719061997619,31.2275913826819,0.000937024995334502,91
+"All assigned","Strong","Nonresponse versus control",TRUE,"Welch cell contrast","in_seven",11.0053861146228,3.3988497008742,82.6096863305064,4.2447383644598,17.7660338647859,0.00173413371583924,91
+"All assigned","Strong","Nonresponse versus control",TRUE,"HC3 cell contrast","in_seven",11.0053861146228,3.48489012033855,87,4.07878965100998,17.9319825782357,0.00218392626511366,91
+"All assigned","Strong","Nonresponse versus control",TRUE,"Welch cell contrast","out_seven",-8.75700488670622,3.20642315447597,82.1339997231227,-15.1354461689147,-2.37856360449771,0.00772423631676037,91
+"All assigned","Strong","Nonresponse versus control",TRUE,"HC3 cell contrast","out_seven",-8.75700488670622,3.29081002923452,87,-15.2978461539491,-2.21616361946332,0.00927556206259039,91
+"All assigned","Strong","Nonresponse versus control",TRUE,"Welch cell contrast","out_ft",-5.16568243703199,4.19216923874152,81.2548088222063,-13.5063877325614,3.17502285849737,0.221420008889669,91
+"All assigned","Strong","Nonresponse versus control",TRUE,"HC3 cell contrast","out_ft",-5.16568243703199,4.28040111192766,87,-13.6734431356225,3.34207826155849,0.230771847426453,91
+"All assigned","Strong","Nonresponse versus response",TRUE,"Welch cell contrast","polarization",5.81523759946456,2.69409521151104,68.2110812465344,0.439555519778446,11.1909196791507,0.0344100419007244,86
+"All assigned","Strong","Nonresponse versus response",TRUE,"HC3 cell contrast","polarization",5.81523759946456,2.77645965709312,82,0.291974880468164,11.338500318461,0.0393044704552821,86
+"All assigned","Strong","Nonresponse versus response",TRUE,"Welch cell contrast","raw_gap",11.6304751989291,5.38819042302208,68.2110812465344,0.879111039556904,22.3818393583014,0.0344100419007242,86
+"All assigned","Strong","Nonresponse versus response",TRUE,"HC3 cell contrast","raw_gap",11.6304751989291,5.55291931418625,82,0.58394976093634,22.6770006369219,0.0393044704552819,86
+"All assigned","Strong","Nonresponse versus response",TRUE,"Welch cell contrast","in_seven",8.89555988324532,3.34476589083031,79.0283898950224,2.2380070995898,15.5531126669008,0.00947015029303146,86
+"All assigned","Strong","Nonresponse versus response",TRUE,"HC3 cell contrast","in_seven",8.89555988324532,3.43217111977677,82,2.06787818340518,15.7232415830855,0.0112998968812712,86
+"All assigned","Strong","Nonresponse versus response",TRUE,"Welch cell contrast","out_seven",-2.7349153156838,3.10401807248099,70.7157440167395,-8.92458272897052,3.45475209760292,0.381254663583476,86
+"All assigned","Strong","Nonresponse versus response",TRUE,"HC3 cell contrast","out_seven",-2.7349153156838,3.19830220178041,82,-9.09735723701632,3.62752660564873,0.3949792377822,86
+"All assigned","Strong","Nonresponse versus response",TRUE,"Welch cell contrast","out_ft",-5.50689094221759,4.74783262276543,66.6300028280034,-14.984571949584,3.97079006514886,0.25023922742688,86
+"All assigned","Strong","Nonresponse versus response",TRUE,"HC3 cell contrast","out_ft",-5.50689094221759,4.88338563991661,82,-15.221500617358,4.20771873292277,0.262744402469884,86
+"All assigned","Weak","Nonresponse versus control",TRUE,"Welch cell contrast","polarization",-2.59571158008658,1.84651444509507,177.845130154242,-6.2396096152626,1.04818645508945,0.161547189587692,184
+"All assigned","Weak","Nonresponse versus control",TRUE,"HC3 cell contrast","polarization",-2.59571158008658,1.86664516448584,180,-6.27903335438748,1.08761019421433,0.166070945590971,184
+"All assigned","Weak","Nonresponse versus control",TRUE,"Welch cell contrast","raw_gap",-5.19142316017316,3.69302889019013,177.845130154242,-12.4792192305252,2.09637291017889,0.161547189587691,184
+"All assigned","Weak","Nonresponse versus control",TRUE,"HC3 cell contrast","raw_gap",-5.19142316017316,3.73329032897167,180,-12.558066708775,2.17522038842864,0.16607094559097,184
+"All assigned","Weak","Nonresponse versus control",TRUE,"Welch cell contrast","in_seven",-3.50294237012987,2.5022297495246,177.915535243823,-8.44081078182617,1.43492604156643,0.163276100075115,184
+"All assigned","Weak","Nonresponse versus control",TRUE,"HC3 cell contrast","in_seven",-3.50294237012987,2.5300767718204,180,-8.49536784102322,1.48948310076348,0.167913131453737,184
+"All assigned","Weak","Nonresponse versus control",TRUE,"Welch cell contrast","out_seven",1.68848079004329,2.67116931595056,173.17903979361,-3.58375824891694,6.96071982900352,0.52814666808084,184
+"All assigned","Weak","Nonresponse versus control",TRUE,"HC3 cell contrast","out_seven",1.68848079004329,2.6990374418703,180,-3.63734308287935,7.01430466296593,0.532378709142797,184
+"All assigned","Weak","Nonresponse versus control",TRUE,"Welch cell contrast","out_ft",3.57741477272728,3.08764005534059,169.765390984183,-2.51769866835717,9.67252821381172,0.248236593550773,184
+"All assigned","Weak","Nonresponse versus control",TRUE,"HC3 cell contrast","out_ft",3.57741477272728,3.12029686449074,180,-2.57965117741933,9.73448072287388,0.253110852116042,184
+"All assigned","Weak","Nonresponse versus response",TRUE,"Welch cell contrast","polarization",-0.690611471861477,1.81889482080176,179.961901047705,-4.27971593875002,2.89849299502707,0.704625143782794,200
+"All assigned","Weak","Nonresponse versus response",TRUE,"HC3 cell contrast","polarization",-0.690611471861477,1.84037892893144,196,-4.32009862108539,2.93887567736244,0.707876565239719,200
+"All assigned","Weak","Nonresponse versus response",TRUE,"Welch cell contrast","raw_gap",-1.38122294372295,3.63778964160352,179.961901047705,-8.55943187750004,5.79698599005415,0.704625143782795,200
+"All assigned","Weak","Nonresponse versus response",TRUE,"HC3 cell contrast","raw_gap",-1.38122294372295,3.68075785786287,196,-8.64019724217078,5.87775135472489,0.70787656523972,200
+"All assigned","Weak","Nonresponse versus response",TRUE,"Welch cell contrast","in_seven",-2.94642857142857,2.3407442273676,166.981549157925,-7.5676956442221,1.67483850136497,0.209875033494477,200
+"All assigned","Weak","Nonresponse versus response",TRUE,"HC3 cell contrast","in_seven",-2.94642857142857,2.37038064539641,196,-7.62115395324469,1.72829681038756,0.215345673884633,200
+"All assigned","Weak","Nonresponse versus response",TRUE,"Welch cell contrast","out_seven",-1.56520562770563,2.65861425405845,172.805055986393,-6.81274393568563,3.68233268027437,0.556811254398962,200
+"All assigned","Weak","Nonresponse versus response",TRUE,"HC3 cell contrast","out_seven",-1.56520562770563,2.69015674802589,196,-6.87057464321979,3.74016338780853,0.561351859229897,200
+"All assigned","Weak","Nonresponse versus response",TRUE,"Welch cell contrast","out_ft",0.858333333333336,3.09385650974616,166.707215850679,-5.24985601534251,6.96652268200918,0.781792511550799,200
+"All assigned","Weak","Nonresponse versus response",TRUE,"HC3 cell contrast","out_ft",0.858333333333336,3.13102237228509,196,-5.31648495299615,7.03315161966282,0.784266998696205,200
+"All assigned","Strong minus weak","Nonresponse versus control",TRUE,"Welch cell contrast","polarization",12.144609119098,3.40797823682673,131.26468204186,5.40294195370312,18.886276284493,0.000510736361313041,275
+"All assigned","Strong minus weak","Nonresponse versus control",TRUE,"HC3 cell contrast","polarization",12.144609119098,3.49148501537071,267,5.27026399688246,19.0189542413136,0.000588897253720516,275
+"All assigned","Strong minus weak","Nonresponse versus control",TRUE,"Welch cell contrast","raw_gap",24.2892182381961,6.81595647365347,131.26468204186,10.8058839074063,37.772552568986,0.000510736361313037,275
+"All assigned","Strong minus weak","Nonresponse versus control",TRUE,"HC3 cell contrast","raw_gap",24.2892182381961,6.98297003074142,267,10.5405279937649,38.0379084826273,0.00058889725372051,275
+"All assigned","Strong minus weak","Nonresponse versus control",TRUE,"Welch cell contrast","in_seven",14.2888170531434,4.24866623986409,160.282997691752,5.89823235732015,22.6794017489667,0.000963954096268404,275
+"All assigned","Strong minus weak","Nonresponse versus control",TRUE,"HC3 cell contrast","in_seven",14.2888170531434,4.34204158164606,267,5.73982078483879,22.8378133214481,0.0011334756527918,275
+"All assigned","Strong minus weak","Nonresponse versus control",TRUE,"Welch cell contrast","out_seven",-10.0004011850527,4.21719393002347,175.330145200159,-18.3233985599943,-1.67740381011105,0.0188084174499577,275
+"All assigned","Strong minus weak","Nonresponse versus control",TRUE,"HC3 cell contrast","out_seven",-10.0004011850527,4.30763782190149,267,-18.4816602822268,-1.51914208787856,0.0210100616982599,275
+"All assigned","Strong minus weak","Nonresponse versus control",TRUE,"Welch cell contrast","out_ft",-8.50316728066393,5.18719171448182,172.614940332573,-18.7416584797958,1.73532391846798,0.102979940367411,275
+"All assigned","Strong minus weak","Nonresponse versus control",TRUE,"HC3 cell contrast","out_ft",-8.50316728066393,5.28253348021975,267,-18.9038873475761,1.89755278624821,0.108650245655312,275
+"All assigned","Strong minus weak","Nonresponse versus response",TRUE,"Welch cell contrast","polarization",6.20100158432046,3.31527356675811,113.339495622826,-0.36694037864285,12.7689435472838,0.0640032306537801,286
+"All assigned","Strong minus weak","Nonresponse versus response",TRUE,"HC3 cell contrast","polarization",6.20100158432046,3.40432328492001,278,-0.500524462705279,12.9025276313462,0.0696043194262621,286
+"All assigned","Strong minus weak","Nonresponse versus response",TRUE,"Welch cell contrast","raw_gap",12.4020031686409,6.63054713351621,113.339495622826,-0.733880757285693,25.5378870945675,0.0640032306537799,286
+"All assigned","Strong minus weak","Nonresponse versus response",TRUE,"HC3 cell contrast","raw_gap",12.4020031686409,6.80864656984003,278,-1.00104892541055,25.8050552626924,0.069604319426262,286
+"All assigned","Strong minus weak","Nonresponse versus response",TRUE,"Welch cell contrast","in_seven",11.5747738895704,4.10681443629065,146.867970314011,3.45868985380646,19.6908579253344,0.00549156476171846,286
+"All assigned","Strong minus weak","Nonresponse versus response",TRUE,"HC3 cell contrast","in_seven",11.5747738895704,4.20270901675578,278,3.30159840455755,19.8479493745833,0.00627308263723025,286
+"All assigned","Strong minus weak","Nonresponse versus response",TRUE,"Welch cell contrast","out_seven",-0.82722927907047,4.15174165549856,150.663918481116,-9.03038378684815,7.37592522870721,0.842336823133518,286
+"All assigned","Strong minus weak","Nonresponse versus response",TRUE,"HC3 cell contrast","out_seven",-0.82722927907047,4.25295562832955,278,-9.1993169260769,7.54485836793596,0.845921044686271,286
+"All assigned","Strong minus weak","Nonresponse versus response",TRUE,"Welch cell contrast","out_ft",-6.61449831862227,5.74794174498221,108.201586181153,-18.0076755625366,4.77867892529204,0.252367972947077,286
+"All assigned","Strong minus weak","Nonresponse versus response",TRUE,"HC3 cell contrast","out_ft",-6.61449831862227,5.89522758142828,278,-18.2194541009032,4.99045746365867,0.262826777896295,286
+"Strict attention","All","Nonresponse versus control",FALSE,"Welch cell contrast","polarization",2.21511539780931,1.81829958718956,260.179076474289,-1.36534135054778,5.7955721461664,0.224238395753695,268
+"Strict attention","All","Nonresponse versus control",FALSE,"HC3 cell contrast","polarization",2.21511539780931,1.82517618470851,266,-1.3785147377546,5.80874553337323,0.225959944362363,268
+"Strict attention","All","Nonresponse versus control",FALSE,"Welch cell contrast","raw_gap",4.43023079561863,3.63659917437913,260.179076474289,-2.73068270109554,11.5911442923328,0.224238395753695,268
+"Strict attention","All","Nonresponse versus control",FALSE,"HC3 cell contrast","raw_gap",4.43023079561863,3.65035236941702,266,-2.7570294755092,11.6174910667465,0.225959944362362,268
+"Strict attention","All","Nonresponse versus control",FALSE,"Welch cell contrast","in_seven",2.1625621265427,2.32192727180282,260.762202817213,-2.40955203617246,6.73467628925785,0.352526192139413,268
+"Strict attention","All","Nonresponse versus control",FALSE,"HC3 cell contrast","in_seven",2.1625621265427,2.33070493347325,266,-2.42641484795941,6.7515391010448,0.354322626945937,268
+"Strict attention","All","Nonresponse versus control",FALSE,"Welch cell contrast","out_seven",-2.26766866907594,2.23341277858126,262.521572499921,-6.6653512550916,2.13001391693971,0.310879621415967,268
+"Strict attention","All","Nonresponse versus control",FALSE,"HC3 cell contrast","out_seven",-2.26766866907594,2.24184409115688,266,-6.68168554739933,2.14634820924745,0.312687136569973,268
+"Strict attention","All","Nonresponse versus control",FALSE,"Welch cell contrast","out_ft",0.312671022505164,2.61035193228594,254.458280719832,-4.8279748131628,5.45331685817313,0.904751010777149,268
+"Strict attention","All","Nonresponse versus control",FALSE,"HC3 cell contrast","out_ft",0.312671022505164,2.6202566463912,266,-4.84641078355449,5.47175282856482,0.905105258235365,268
+"Strict attention","All","Nonresponse versus response",FALSE,"Welch cell contrast","polarization",1.57653791652666,1.77252918963522,262.33225940497,-1.91365739202856,5.06673322508188,0.374587732543777,281
+"Strict attention","All","Nonresponse versus response",FALSE,"HC3 cell contrast","polarization",1.57653791652666,1.779026139728,279,-1.92548060173931,5.07855643479263,0.376283559224889,281
+"Strict attention","All","Nonresponse versus response",FALSE,"Welch cell contrast","raw_gap",3.15307583305334,3.54505837927044,262.33225940497,-3.8273147840571,10.1334664501638,0.374587732543774,281
+"Strict attention","All","Nonresponse versus response",FALSE,"HC3 cell contrast","raw_gap",3.15307583305334,3.558052279456,279,-3.8509612034786,10.1571128695853,0.376283559224886,281
+"Strict attention","All","Nonresponse versus response",FALSE,"Welch cell contrast","in_seven",1.23278015572728,2.18105435827548,251.234698860948,-3.06270021584951,5.52826052730407,0.572427081972075,281
+"Strict attention","All","Nonresponse versus response",FALSE,"HC3 cell contrast","in_seven",1.23278015572728,2.18910956565719,279,-3.07648886862599,5.54204918008055,0.573790276556068,281
+"Strict attention","All","Nonresponse versus response",FALSE,"Welch cell contrast","out_seven",-1.92029567732605,2.22410374896941,271.270962555985,-6.29899435702063,2.45840300236853,0.388679189551083,281
+"Strict attention","All","Nonresponse versus response",FALSE,"HC3 cell contrast","out_seven",-1.92029567732605,2.23219157374863,279,-6.31437176930531,2.47378041465321,0.390376824005248,281
+"Strict attention","All","Nonresponse versus response",FALSE,"Welch cell contrast","out_ft",-0.649657429184987,2.68481381487937,268.852327784425,-5.93559098498187,4.6362761266119,0.808984117001552,281
+"Strict attention","All","Nonresponse versus response",FALSE,"HC3 cell contrast","out_ft",-0.649657429184987,2.69460074242004,279,-5.95398741543858,4.65467255706861,0.809657805217439,281
+"Strict attention","Strong","Nonresponse versus control",FALSE,"Welch cell contrast","polarization",9.62478741496598,2.99062744163536,87.9087278692255,3.68145780604514,15.5681170238868,0.00180651150513793,90
+"Strict attention","Strong","Nonresponse versus control",FALSE,"HC3 cell contrast","polarization",9.62478741496598,3.02449491409398,88,3.6142393259536,15.6353355039784,0.00201967895880737,90
+"Strict attention","Strong","Nonresponse versus control",FALSE,"Welch cell contrast","raw_gap",19.249574829932,5.98125488327071,87.9087278692255,7.3629156120903,31.1362340477737,0.00180651150513791,90
+"Strict attention","Strong","Nonresponse versus control",FALSE,"HC3 cell contrast","raw_gap",19.249574829932,6.04898982818795,88,7.22847865190722,31.2706710079567,0.00201967895880735,90
+"Strict attention","Strong","Nonresponse versus control",FALSE,"Welch cell contrast","in_seven",10.9375,3.47272976492667,87.6016320980655,4.03574189601093,17.8392581039891,0.00223708399955775,90
+"Strict attention","Strong","Nonresponse versus control",FALSE,"HC3 cell contrast","in_seven",10.9375,3.51215072549222,88,3.95783845946988,17.9171615405301,0.00248938119383496,90
+"Strict attention","Strong","Nonresponse versus control",FALSE,"Welch cell contrast","out_seven",-8.31207482993197,3.47425091312357,87.09902897328,-15.2174140166453,-1.40673564321866,0.01888463722169,90
+"Strict attention","Strong","Nonresponse versus control",FALSE,"HC3 cell contrast","out_seven",-8.31207482993197,3.51378056990725,88,-15.2949753437493,-1.32917431611461,0.0201991914263229,90
+"Strict attention","Strong","Nonresponse versus control",FALSE,"Welch cell contrast","out_ft",-5.09821428571428,4.21956533906631,85.1584890127199,-13.4876152324228,3.29118666099425,0.230302518512296,90
+"Strict attention","Strong","Nonresponse versus control",FALSE,"HC3 cell contrast","out_ft",-5.09821428571428,4.26783741294482,88,-13.5796443212068,3.38321574977823,0.235466360680318,90
+"Strict attention","Strong","Nonresponse versus response",FALSE,"Welch cell contrast","polarization",5.47503092145949,2.8919213715583,83.7492613455206,-0.27612344334134,11.2261852862603,0.0617827554478662,86
+"Strict attention","Strong","Nonresponse versus response",FALSE,"HC3 cell contrast","polarization",5.47503092145949,2.92619082367136,84,-0.34402043790898,11.294082280828,0.0648207142934244,86
+"Strict attention","Strong","Nonresponse versus response",FALSE,"Welch cell contrast","raw_gap",10.950061842919,5.78384274311659,83.7492613455206,-0.552246886682674,22.4523705725207,0.0617827554478659,86
+"Strict attention","Strong","Nonresponse versus response",FALSE,"HC3 cell contrast","raw_gap",10.950061842919,5.85238164734271,84,-0.688040875817952,22.5881645616559,0.0648207142934243,86
+"Strict attention","Strong","Nonresponse versus response",FALSE,"Welch cell contrast","in_seven",8.65800865800865,3.41043026548603,83.7011028577842,1.87564020147512,15.4403771145422,0.0129781156599426,86
+"Strict attention","Strong","Nonresponse versus response",FALSE,"HC3 cell contrast","in_seven",8.65800865800865,3.45084889841601,84,1.7956171793461,15.5204001366712,0.0140303384645475,86
+"Strict attention","Strong","Nonresponse versus response",FALSE,"Welch cell contrast","out_seven",-2.29205318491033,3.37139617192476,82.7851202596489,-8.99788198743714,4.41377561761649,0.498494380048384,86
+"Strict attention","Strong","Nonresponse versus response",FALSE,"HC3 cell contrast","out_seven",-2.29205318491033,3.41141018033461,84,-9.07601644754309,4.49191007772243,0.503504791781346,86
+"Strict attention","Strong","Nonresponse versus response",FALSE,"Welch cell contrast","out_ft",-5.50541125541125,4.76902321542233,83.0997775717236,-14.9906381924896,3.97981568166705,0.251640906223951,86
+"Strict attention","Strong","Nonresponse versus response",FALSE,"HC3 cell contrast","out_ft",-5.50541125541125,4.82532423463322,84,-15.101097674695,4.09027516387254,0.257136788124291,86
+"Strict attention","Weak","Nonresponse versus control",FALSE,"Welch cell contrast","polarization",-1.36938646426312,2.02487313152886,175.977321492761,-5.3655467852866,2.62677385676036,0.499749101710074,178
+"Strict attention","Weak","Nonresponse versus control",FALSE,"HC3 cell contrast","polarization",-1.36938646426312,2.03635150165611,176,-5.38819617823842,2.64942324971217,0.50216606541774,178
+"Strict attention","Weak","Nonresponse versus control",FALSE,"Welch cell contrast","raw_gap",-2.73877292852625,4.04974626305772,175.977321492761,-10.7310935705732,5.25354771352071,0.499749101710073,178
+"Strict attention","Weak","Nonresponse versus control",FALSE,"HC3 cell contrast","raw_gap",-2.73877292852625,4.07270300331222,176,-10.7763923564768,5.29884649942434,0.502166065417739,178
+"Strict attention","Weak","Nonresponse versus control",FALSE,"Welch cell contrast","in_seven",-2.07282913165266,2.73124368903108,175.999971654984,-7.46303247917048,3.31737421586516,0.448908234000492,178
+"Strict attention","Weak","Nonresponse versus control",FALSE,"HC3 cell contrast","in_seven",-2.07282913165266,2.74671856313463,176,-7.49357266934954,3.34791440604422,0.451463681778259,178
+"Strict attention","Weak","Nonresponse versus control",FALSE,"Welch cell contrast","out_seven",0.665943796873588,2.75929619533719,175.640577882725,-4.77969927647692,6.1115868702241,0.809568846948971,178
+"Strict attention","Weak","Nonresponse versus control",FALSE,"HC3 cell contrast","out_seven",0.665943796873588,2.77496181488916,176,-4.8105387693815,6.14242636312867,0.810622675296545,178
+"Strict attention","Weak","Nonresponse versus control",FALSE,"Welch cell contrast","out_ft",2.89981024667932,3.17657200176376,170.757174153373,-3.37059663248045,9.17021712583908,0.362595838257677,178
+"Strict attention","Weak","Nonresponse versus control",FALSE,"HC3 cell contrast","out_ft",2.89981024667932,3.19471280857477,176,-3.40506533988813,9.20468583324677,0.365282946692744,178
+"Strict attention","Weak","Nonresponse versus response",FALSE,"Welch cell contrast","polarization",-1.00840336134454,1.92364488573399,185.47329827394,-4.80344078259498,2.78663405990589,0.600754962137202,195
+"Strict attention","Weak","Nonresponse versus response",FALSE,"HC3 cell contrast","polarization",-1.00840336134454,1.93384719581726,193,-4.8225914418037,2.80578471911462,0.602651628429157,195
+"Strict attention","Weak","Nonresponse versus response",FALSE,"Welch cell contrast","raw_gap",-2.01680672268908,3.84728977146799,185.47329827394,-9.60688156518994,5.57326811981179,0.600754962137203,195
+"Strict attention","Weak","Nonresponse versus response",FALSE,"HC3 cell contrast","raw_gap",-2.01680672268908,3.86769439163451,193,-9.64518288360739,5.61156943822924,0.602651628429159,195
+"Strict attention","Weak","Nonresponse versus response",FALSE,"Welch cell contrast","in_seven",-2.99274255156608,2.46521445303489,176.646385897587,-7.8578048053111,1.87231970217893,0.226372578151105,195
+"Strict attention","Weak","Nonresponse versus response",FALSE,"HC3 cell contrast","in_seven",-2.99274255156608,2.47845970463683,193,-7.88108713420467,1.89560203107251,0.228716951878232,195
+"Strict attention","Weak","Nonresponse versus response",FALSE,"Welch cell contrast","out_seven",-0.975935828877006,2.6786063521981,186.136431126253,-6.26026538279445,4.30839372504044,0.716014243338274,195
+"Strict attention","Weak","Nonresponse versus response",FALSE,"HC3 cell contrast","out_seven",-0.975935828877006,2.69279571029967,193,-6.28702210474796,4.33515044699395,0.717431195487942,195
+"Strict attention","Weak","Nonresponse versus response",FALSE,"Welch cell contrast","out_ft",2.17165775401069,3.15759229406648,179.425098884166,-4.05913580549103,8.40245131351241,0.492493627436401,195
+"Strict attention","Weak","Nonresponse versus response",FALSE,"HC3 cell contrast","out_ft",2.17165775401069,3.17449550457165,193,-4.08950028432718,8.43281579234857,0.494735505959439,195
+"Strict attention","Strong minus weak","Nonresponse versus control",FALSE,"Welch cell contrast","polarization",10.9941738792291,3.6116427970454,169.217963571055,3.86449444502743,18.1238533134308,0.00270693099315393,268
+"Strict attention","Strong minus weak","Nonresponse versus control",FALSE,"HC3 cell contrast","polarization",10.9941738792291,3.64613451804475,264,3.81496966267158,18.1733780957866,0.00281742701664842,268
+"Strict attention","Strong minus weak","Nonresponse versus control",FALSE,"Welch cell contrast","raw_gap",21.9883477584582,7.2232855940908,169.217963571055,7.72898889005488,36.2477066268616,0.00270693099315392,268
+"Strict attention","Strong minus weak","Nonresponse versus control",FALSE,"HC3 cell contrast","raw_gap",21.9883477584582,7.2922690360895,264,7.62993932534317,36.3467561915733,0.0028174270166484,268
+"Strict attention","Strong minus weak","Nonresponse versus control",FALSE,"Welch cell contrast","in_seven",13.0103291316527,4.41809281354294,192.77920525336,4.29632175903662,21.7243365042687,0.00362945959905027,268
+"Strict attention","Strong minus weak","Nonresponse versus control",FALSE,"HC3 cell contrast","in_seven",13.0103291316527,4.45866186020468,264,4.23126629988668,21.7893919634187,0.00382638294878232,268
+"Strict attention","Strong minus weak","Nonresponse versus control",FALSE,"Welch cell contrast","out_seven",-8.97801862680556,4.43668061741459,193.462429455492,-17.7284923764556,-0.227544877155555,0.0443881225215805,268
+"Strict attention","Strong minus weak","Nonresponse versus control",FALSE,"HC3 cell contrast","out_seven",-8.97801862680556,4.477395109609,264,-17.7939670486253,-0.162070204985849,0.045963644848857,268
+"Strict attention","Strong minus weak","Nonresponse versus control",FALSE,"Welch cell contrast","out_ft",-7.9980245323936,5.2816040492486,180.174956376836,-18.4197799460979,2.42373088131072,0.1316976371399,268
+"Strict attention","Strong minus weak","Nonresponse versus control",FALSE,"HC3 cell contrast","out_ft",-7.9980245323936,5.33109989707595,264,-18.4949095679191,2.49886050313194,0.134742574359163,268
+"Strict attention","Strong minus weak","Nonresponse versus response",FALSE,"Welch cell contrast","polarization",6.48343428280403,3.47327206905623,160.103808401299,-0.375902254209407,13.3427708198175,0.0637771202006127,281
+"Strict attention","Strong minus weak","Nonresponse versus response",FALSE,"HC3 cell contrast","polarization",6.48343428280403,3.50747169814793,277,-0.421251903480451,13.3881204690885,0.0656009633354596,281
+"Strict attention","Strong minus weak","Nonresponse versus response",FALSE,"Welch cell contrast","raw_gap",12.9668685656081,6.94654413811247,160.103808401299,-0.751804508418799,26.6855416396349,0.0637771202006123,281
+"Strict attention","Strong minus weak","Nonresponse versus response",FALSE,"HC3 cell contrast","raw_gap",12.9668685656081,7.01494339629586,277,-0.842503806960886,26.776240938177,0.0656009633354593,281
+"Strict attention","Strong minus weak","Nonresponse versus response",FALSE,"Welch cell contrast","in_seven",11.6507512095747,4.20812510450856,171.797039466376,3.34446481798301,19.9570376011665,0.00624738862577803,281
+"Strict attention","Strong minus weak","Nonresponse versus response",FALSE,"HC3 cell contrast","in_seven",11.6507512095747,4.24866103934021,277,3.28698559343941,20.0145168257101,0.00650014615206994,281
+"Strict attention","Strong minus weak","Nonresponse versus response",FALSE,"Welch cell contrast","out_seven",-1.31611735603332,4.3059544979139,187.125316871075,-9.8105703716239,7.17833565955726,0.760210479398804,281
+"Strict attention","Strong minus weak","Nonresponse versus response",FALSE,"HC3 cell contrast","out_seven",-1.31611735603332,4.3461325515795,277,-9.87176198418469,7.23952727211805,0.762250556935485,281
+"Strict attention","Strong minus weak","Nonresponse versus response",FALSE,"Welch cell contrast","out_ft",-7.67706900942195,5.71961288242353,157.87671104369,-18.9738991541501,3.61976113530621,0.18144655363286,281
+"Strict attention","Strong minus weak","Nonresponse versus response",FALSE,"HC3 cell contrast","out_ft",-7.67706900942195,5.77591340636997,277,-19.0473302523556,3.6931922335117,0.184891411905481,281
+"Strict attention","All","Nonresponse versus control",TRUE,"Welch cell contrast","polarization",1.8004100954012,1.71446673434496,258.056844076556,-1.57571666981948,5.17653686062189,0.294641542655248,268
+"Strict attention","All","Nonresponse versus control",TRUE,"HC3 cell contrast","polarization",1.8004100954012,1.72738894839598,264,-1.60080232849191,5.20162251929431,0.29823884021904,268
+"Strict attention","All","Nonresponse versus control",TRUE,"Welch cell contrast","raw_gap",3.60082019080242,3.42893346868993,258.056844076556,-3.15143333963896,10.3530737212438,0.294641542655246,268
+"Strict attention","All","Nonresponse versus control",TRUE,"HC3 cell contrast","raw_gap",3.60082019080242,3.45477789679197,264,-3.2016046569838,10.4032450385886,0.298238840219039,268
+"Strict attention","All","Nonresponse versus control",TRUE,"Welch cell contrast","in_seven",1.7542687351314,2.2141747160655,258.029188124249,-2.60588486075728,6.11442233102009,0.428919341588026,268
+"Strict attention","All","Nonresponse versus control",TRUE,"HC3 cell contrast","in_seven",1.7542687351314,2.23145460342393,264,-2.63944417334038,6.14798164360319,0.432481865738609,268
+"Strict attention","All","Nonresponse versus control",TRUE,"Welch cell contrast","out_seven",-1.846551455671,2.17604833801798,258.197507372233,-6.13161341216154,2.43851050081953,0.396900970295203,268
+"Strict attention","All","Nonresponse versus control",TRUE,"HC3 cell contrast","out_seven",-1.846551455671,2.1918729217368,264,-6.16232840904833,2.46922549770632,0.400296601666665,268
+"Strict attention","All","Nonresponse versus control",TRUE,"Welch cell contrast","out_ft",0.700727110510281,2.58798448861894,248.732328832951,-4.39643054139117,5.79788476241174,0.786798857975296,268
+"Strict attention","All","Nonresponse versus control",TRUE,"HC3 cell contrast","out_ft",0.700727110510281,2.60679249933941,264,-4.43202254815667,5.83347676917724,0.788287255857907,268
+"Strict attention","All","Nonresponse versus response",TRUE,"Welch cell contrast","polarization",1.93516872345697,1.72300746789063,242.70174483797,-1.4587881445476,5.32912559146154,0.262490238295548,281
+"Strict attention","All","Nonresponse versus response",TRUE,"HC3 cell contrast","polarization",1.93516872345697,1.73765717857728,277,-1.48552246095258,5.35585990786652,0.266388172346844,281
+"Strict attention","All","Nonresponse versus response",TRUE,"Welch cell contrast","raw_gap",3.87033744691395,3.44601493578126,242.70174483797,-2.9175762890952,10.6582511829231,0.262490238295547,281
+"Strict attention","All","Nonresponse versus response",TRUE,"HC3 cell contrast","raw_gap",3.87033744691395,3.47531435715456,277,-2.97104492190515,10.711719815733,0.266388172346842,281
+"Strict attention","All","Nonresponse versus response",TRUE,"Welch cell contrast","in_seven",1.5761635075328,2.13237637943604,238.483039164727,-2.62453509122057,5.77686210628617,0.460537824194515,281
+"Strict attention","All","Nonresponse versus response",TRUE,"HC3 cell contrast","in_seven",1.5761635075328,2.1509244402243,277,-2.65807116298514,5.81039817805074,0.464309671314762,281
+"Strict attention","All","Nonresponse versus response",TRUE,"Welch cell contrast","out_seven",-2.29417393938114,2.21355631712845,245.033555620727,-6.65419939620736,2.06585151744507,0.301027975168474,281
+"Strict attention","All","Nonresponse versus response",TRUE,"HC3 cell contrast","out_seven",-2.29417393938114,2.23212204678304,277,-6.68825138002365,2.09990350126136,0.304940797938211,281
+"Strict attention","All","Nonresponse versus response",TRUE,"Welch cell contrast","out_ft",-1.20325574546513,2.69419184663816,232.412979640802,-6.51141604898764,4.10490455805737,0.655571802375603,281
+"Strict attention","All","Nonresponse versus response",TRUE,"HC3 cell contrast","out_ft",-1.20325574546513,2.71733265595138,277,-6.55250183146902,4.14599034053875,0.658250447626971,281
+"Strict attention","Strong","Nonresponse versus control",TRUE,"Welch cell contrast","polarization",10.1870650525359,2.84743263106584,72.7936574725662,4.51186898407908,15.8622611209927,0.000621249241235553,90
+"Strict attention","Strong","Nonresponse versus control",TRUE,"HC3 cell contrast","polarization",10.1870650525359,2.93064864180312,86,4.36112837102756,16.0130017340442,0.000800005399942786,90
+"Strict attention","Strong","Nonresponse versus control",TRUE,"Welch cell contrast","raw_gap",20.3741301050718,5.69486526213168,72.7936574725662,9.02373796815816,31.7245222419855,0.00062124924123555,90
+"Strict attention","Strong","Nonresponse versus control",TRUE,"HC3 cell contrast","raw_gap",20.3741301050718,5.86129728360623,86,8.72225674205513,32.0260034680885,0.000800005399942782,90
+"Strict attention","Strong","Nonresponse versus control",TRUE,"Welch cell contrast","in_seven",11.4419954267208,3.42856252912997,78.983669406236,4.61759048045086,18.2664003729907,0.0012920549964381,90
+"Strict attention","Strong","Nonresponse versus control",TRUE,"HC3 cell contrast","in_seven",11.4419954267208,3.51957131951596,86,4.44531920935717,18.4386716440843,0.00164306138279765,90
+"Strict attention","Strong","Nonresponse versus control",TRUE,"Welch cell contrast","out_seven",-8.93213467835105,3.24852720671359,79.2746094741457,-15.3978180897264,-2.46645126697566,0.00738806941583977,90
+"Strict attention","Strong","Nonresponse versus control",TRUE,"HC3 cell contrast","out_seven",-8.93213467835105,3.33849638076922,86,-15.5688458310873,-2.29542352561475,0.00893217534257607,90
+"Strict attention","Strong","Nonresponse versus control",TRUE,"Welch cell contrast","out_ft",-5.14135094477022,4.22829396417428,81.2953253186154,-13.5538663396423,3.27116445010186,0.227526874221921,90
+"Strict attention","Strong","Nonresponse versus control",TRUE,"HC3 cell contrast","out_ft",-5.14135094477022,4.31946392973891,86,-13.7281610433138,3.44545915377338,0.237213561163548,90
+"Strict attention","Strong","Nonresponse versus response",TRUE,"Welch cell contrast","polarization",5.88668651317029,2.67744577884923,70.2855907883502,0.54707073302866,11.2263022933119,0.0311986523394252,86
+"Strict attention","Strong","Nonresponse versus response",TRUE,"HC3 cell contrast","polarization",5.88668651317029,2.75750137793946,82,0.401137850705644,11.3722351756349,0.0357633584116185,86
+"Strict attention","Strong","Nonresponse versus response",TRUE,"Welch cell contrast","raw_gap",11.7733730263406,5.35489155769846,70.2855907883502,1.09414146605732,22.4526045866238,0.031198652339425,86
+"Strict attention","Strong","Nonresponse versus response",TRUE,"HC3 cell contrast","raw_gap",11.7733730263406,5.51500275587893,82,0.802275701411293,22.7444703512699,0.0357633584116185,86
+"Strict attention","Strong","Nonresponse versus response",TRUE,"Welch cell contrast","in_seven",8.94241412932885,3.33807590025981,79.6899172075447,2.29903454342392,15.5857937152338,0.00896926984552853,86
+"Strict attention","Strong","Nonresponse versus response",TRUE,"HC3 cell contrast","in_seven",8.94241412932885,3.42344643487032,82,2.13208860707828,15.7527396515794,0.0106998939657768,86
+"Strict attention","Strong","Nonresponse versus response",TRUE,"Welch cell contrast","out_seven",-2.83095889701172,3.08539677753121,72.6866269180112,-8.98059246895104,3.3186746749276,0.361896970263114,86
+"Strict attention","Strong","Nonresponse versus response",TRUE,"HC3 cell contrast","out_seven",-2.83095889701172,3.17705132244576,82,-9.15112604972836,3.48920825570492,0.375501482342744,86
+"Strict attention","Strong","Nonresponse versus response",TRUE,"Welch cell contrast","out_ft",-5.48289039831179,4.72766313379568,68.4656941499167,-14.915633551019,3.94985275439543,0.250180562667377,86
+"Strict attention","Strong","Nonresponse versus response",TRUE,"HC3 cell contrast","out_ft",-5.48289039831179,4.85967317351721,82,-15.1503284240084,4.18454762738478,0.262507710498684,86
+"Strict attention","Weak","Nonresponse versus control",TRUE,"Welch cell contrast","polarization",-2.36215581132816,1.89081661203423,170.536522401464,-6.09457521420082,1.37026359154449,0.213275340732256,178
+"Strict attention","Weak","Nonresponse versus control",TRUE,"HC3 cell contrast","polarization",-2.36215581132816,1.91221453128486,174,-6.13627726270225,1.41196564004593,0.218384748330825,178
+"Strict attention","Weak","Nonresponse versus control",TRUE,"Welch cell contrast","raw_gap",-4.72431162265633,3.78163322406846,170.536522401464,-12.1891504284016,2.74052718308898,0.213275340732255,178
+"Strict attention","Weak","Nonresponse versus control",TRUE,"HC3 cell contrast","raw_gap",-4.72431162265633,3.82442906256971,174,-12.2725545254045,2.82393128009185,0.218384748330825,178
+"Strict attention","Weak","Nonresponse versus control",TRUE,"Welch cell contrast","in_seven",-2.9547900685748,2.5775312246972,169.734910456049,-8.04293673851227,2.13335660136268,0.253257919494637,178
+"Strict attention","Weak","Nonresponse versus control",TRUE,"HC3 cell contrast","in_seven",-2.9547900685748,2.60737308646733,174,-8.10094000958572,2.19135987243613,0.258670827284138,178
+"Strict attention","Weak","Nonresponse versus control",TRUE,"Welch cell contrast","out_seven",1.76952155408153,2.70834771580101,166.456574316594,-3.5776180905698,7.11666119873286,0.514426759134763,178
+"Strict attention","Weak","Nonresponse versus control",TRUE,"HC3 cell contrast","out_seven",1.76952155408153,2.73775159075085,174,-3.63395532476198,7.17299843292505,0.518910024703686,178
+"Strict attention","Weak","Nonresponse versus control",TRUE,"Welch cell contrast","out_ft",4.05035676597624,3.12057915089454,162.777992046817,-2.11167851145955,10.212392043412,0.196140552677812,178
+"Strict attention","Weak","Nonresponse versus control",TRUE,"HC3 cell contrast","out_ft",4.05035676597624,3.15513489021928,174,-2.17690595812527,10.2776194900778,0.200941617293036,178
+"Strict attention","Weak","Nonresponse versus response",TRUE,"Welch cell contrast","polarization",-0.433573062542647,1.85528638726749,170.475241893884,-4.09586619768036,3.22872007259506,0.815501365434579,195
+"Strict attention","Weak","Nonresponse versus response",TRUE,"HC3 cell contrast","polarization",-0.433573062542647,1.87857632083794,191,-4.13899345027222,3.27184732518692,0.817718186865232,195
+"Strict attention","Weak","Nonresponse versus response",TRUE,"Welch cell contrast","raw_gap",-0.867146125085302,3.71057277453497,170.475241893884,-8.19173239536072,6.45744014519012,0.815501365434577,195
+"Strict attention","Weak","Nonresponse versus response",TRUE,"HC3 cell contrast","raw_gap",-0.867146125085302,3.75715264167588,191,-8.27798690054443,6.54369465037383,0.81771818686523,195
+"Strict attention","Weak","Nonresponse versus response",TRUE,"Welch cell contrast","in_seven",-2.52062588306533,2.40290654119662,156.332365449639,-7.26697827582938,2.22572650969872,0.295801511528103,195
+"Strict attention","Weak","Nonresponse versus response",TRUE,"HC3 cell contrast","in_seven",-2.52062588306533,2.4354162086862,191,-7.32439178396182,2.28314001783117,0.301983264893374,195
+"Strict attention","Weak","Nonresponse versus response",TRUE,"Welch cell contrast","out_seven",-1.65347975798003,2.69446621091228,163.740769108332,-6.97385906380183,3.66689954784177,0.540293152130852,195
+"Strict attention","Weak","Nonresponse versus response",TRUE,"HC3 cell contrast","out_seven",-1.65347975798003,2.72845975527243,191,-7.03526291586443,3.72830339990438,0.545226196423345,195
+"Strict attention","Weak","Nonresponse versus response",TRUE,"Welch cell contrast","out_ft",1.17697365101258,3.15636195977665,158.94141054284,-5.05684688721779,7.41079418924295,0.709727629629004,195
+"Strict attention","Weak","Nonresponse versus response",TRUE,"HC3 cell contrast","out_ft",1.17697365101258,3.19647445590918,191,-5.1279507145301,7.48189801655526,0.713124458831411,195
+"Strict attention","Strong minus weak","Nonresponse versus control",TRUE,"Welch cell contrast","polarization",12.191513273866,3.48607486928024,115.374662585287,5.2865082903278,19.0965182574042,0.000668519784443228,268
+"Strict attention","Strong minus weak","Nonresponse versus control",TRUE,"HC3 cell contrast","polarization",12.191513273866,3.57864997869157,260,5.14468622930022,19.2383403184318,0.000761606585845496,268
+"Strict attention","Strong minus weak","Nonresponse versus control",TRUE,"Welch cell contrast","raw_gap",24.383026547732,6.97214973856048,115.374662585287,10.5730165806556,38.1930365148085,0.000668519784443225,268
+"Strict attention","Strong minus weak","Nonresponse versus control",TRUE,"HC3 cell contrast","raw_gap",24.383026547732,7.15729995738313,260,10.2893724586004,38.4766806368637,0.000761606585845495,268
+"Strict attention","Strong minus weak","Nonresponse versus control",TRUE,"Welch cell contrast","in_seven",14.1849111580296,4.32964458897265,149.637663493044,5.62977487172848,22.7400474443307,0.00130757203623915,268
+"Strict attention","Strong minus weak","Nonresponse versus control",TRUE,"HC3 cell contrast","in_seven",14.1849111580296,4.43080243810743,260,5.46008513819086,22.9097371778684,0.00153755358733641,268
+"Strict attention","Strong minus weak","Nonresponse versus control",TRUE,"Welch cell contrast","out_seven",-10.1981153897024,4.29212265428392,162.197483657492,-18.6737600914821,-1.7224706879227,0.0186679623553431,268
+"Strict attention","Strong minus weak","Nonresponse versus control",TRUE,"HC3 cell contrast","out_seven",-10.1981153897024,4.39090318326936,260,-18.8443745897278,-1.55185618967704,0.020975493145916,268
+"Strict attention","Strong minus weak","Nonresponse versus control",TRUE,"Welch cell contrast","out_ft",-8.88629490270419,5.23741014158913,171.760205405997,-19.2242705289562,1.45168072354777,0.0915655230587651,268
+"Strict attention","Strong minus weak","Nonresponse versus control",TRUE,"HC3 cell contrast","out_ft",-8.88629490270419,5.33810373756638,260,-19.3977151333952,1.62512532798684,0.0971789331391286,268
+"Strict attention","Strong minus weak","Nonresponse versus response",TRUE,"Welch cell contrast","polarization",5.9545869375126,3.33087544349931,115.90816704528,-0.642686667058229,12.5518605420834,0.0764384763135907,281
+"Strict attention","Strong minus weak","Nonresponse versus response",TRUE,"HC3 cell contrast","polarization",5.9545869375126,3.42009405762401,273,-0.778523572643472,12.6876974476687,0.0827997222629798,281
+"Strict attention","Strong minus weak","Nonresponse versus response",TRUE,"Welch cell contrast","raw_gap",11.9091738750252,6.66175088699861,115.90816704528,-1.28537333411644,25.1037210841669,0.0764384763135901,281
+"Strict attention","Strong minus weak","Nonresponse versus response",TRUE,"HC3 cell contrast","raw_gap",11.9091738750252,6.84018811524801,273,-1.55704714528692,25.3753948953373,0.0827997222629792,281
+"Strict attention","Strong minus weak","Nonresponse versus response",TRUE,"Welch cell contrast","in_seven",11.1339655127679,4.13734570184465,149.937365906812,2.95893431354014,19.3089967119956,0.00793073257518182,281
+"Strict attention","Strong minus weak","Nonresponse versus response",TRUE,"HC3 cell contrast","in_seven",11.1339655127679,4.23393440190868,273,2.79865433696726,19.4692766885685,0.00903091022796754,281
+"Strict attention","Strong minus weak","Nonresponse versus response",TRUE,"Welch cell contrast","out_seven",-0.775208362257307,4.16903307529763,152.54183707518,-9.01170693072192,7.46129020620731,0.85273539778164,281
+"Strict attention","Strong minus weak","Nonresponse versus response",TRUE,"HC3 cell contrast","out_seven",-0.775208362257307,4.27087079881596,273,-9.18323591311472,7.6328191886001,0.856101497165638,281
+"Strict attention","Strong minus weak","Nonresponse versus response",TRUE,"Welch cell contrast","out_ft",-6.93756358664268,5.77561103055806,110.609478256589,-18.3827676862611,4.50764051297572,0.232246178988697,281
+"Strict attention","Strong minus weak","Nonresponse versus response",TRUE,"HC3 cell contrast","out_ft",-6.93756358664268,5.92320094497415,273,-18.5985196493769,4.72339247609151,0.242518576686151,281

@@ -1,0 +1,307 @@
+{
+  "status": "OK",
+  "data": {
+    "id": 385738,
+    "identifier": "RANITN",
+    "persistentUrl": "https://doi.org/10.34894/RANITN",
+    "protocol": "doi",
+    "authority": "10.34894",
+    "separator": "/",
+    "publisher": "DataverseNL",
+    "publicationDate": "2023-11-30",
+    "storageIdentifier": "surf://10.34894/RANITN",
+    "effectiveDatasetFileCountLimit": 10000,
+    "datasetFileUploadsAvailable": 9998,
+    "datasetType": "dataset",
+    "locks": [],
+    "latestVersion": {
+      "id": 25921,
+      "datasetId": 385738,
+      "datasetPersistentId": "doi:10.34894/RANITN",
+      "datasetType": "dataset",
+      "storageIdentifier": "surf://10.34894/RANITN",
+      "versionNumber": 2,
+      "internalVersionNumber": 7,
+      "versionMinorNumber": 1,
+      "versionState": "RELEASED",
+      "latestVersionPublishingState": "RELEASED",
+      "deaccessionLink": "",
+      "lastUpdateTime": "2024-02-08T10:15:12Z",
+      "releaseTime": "2024-02-08T10:15:12Z",
+      "createTime": "2024-02-08T10:13:34Z",
+      "publicationDate": "2023-11-30",
+      "citationDate": "2023-11-30",
+      "effectiveDatasetFileCountLimit": 10000,
+      "datasetFileUploadsAvailable": 9998,
+      "license": {
+        "name": "CC0-1.0",
+        "uri": "http://creativecommons.org/publicdomain/zero/1.0",
+        "iconUri": "https://licensebuttons.net/p/zero/1.0/88x31.png",
+        "rightsIdentifier": "CC0-1.0",
+        "rightsIdentifierScheme": "SPDX",
+        "schemeUri": "https://spdx.org/licenses/",
+        "languageCode": "en"
+      },
+      "fileAccessRequest": false,
+      "metadataBlocks": {
+        "citation": {
+          "displayName": "Citation Metadata",
+          "name": "citation",
+          "fields": [
+            {
+              "typeName": "title",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "Scandals and deaths of members of Congress 2000-2019"
+            },
+            {
+              "typeName": "subtitle",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "Data from: The reputational costs of connections to controversial politicians: Evidence from political scandals"
+            },
+            {
+              "typeName": "author",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "authorName": {
+                    "typeName": "authorName",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Preuss, Susanne"
+                  },
+                  "authorAffiliation": {
+                    "typeName": "authorAffiliation",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "University of Amsterdam"
+                  }
+                },
+                {
+                  "authorName": {
+                    "typeName": "authorName",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Wielhouwer, Jacco L."
+                  },
+                  "authorAffiliation": {
+                    "typeName": "authorAffiliation",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Vrije Universiteit Amsterdam"
+                  },
+                  "authorIdentifierScheme": {
+                    "typeName": "authorIdentifierScheme",
+                    "multiple": false,
+                    "typeClass": "controlledVocabulary",
+                    "value": "ORCID"
+                  },
+                  "authorIdentifier": {
+                    "typeName": "authorIdentifier",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "0000-0002-0509-0602"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "datasetContact",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "datasetContactName": {
+                    "typeName": "datasetContactName",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Wielhouwer, JL"
+                  },
+                  "datasetContactAffiliation": {
+                    "typeName": "datasetContactAffiliation",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Vrije Universiteit Amsterdam"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "dsDescription",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "dsDescriptionValue": {
+                    "typeName": "dsDescriptionValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "This repository makes available hand-collected data used in the article. It contains event dates, media sources, descriptions, and characteristics of scandals and deaths of U.S. politicians. The data dictionary file provides a description of all variables.\nPlease cite the related publication Preuss & Wielhouwer (2024) from JBFA."
+                  },
+                  "dsDescriptionDate": {
+                    "typeName": "dsDescriptionDate",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "2024-2-7"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "subject",
+              "multiple": true,
+              "typeClass": "controlledVocabulary",
+              "value": [
+                "Business and Management"
+              ]
+            },
+            {
+              "typeName": "keyword",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "keywordValue": {
+                    "typeName": "keywordValue",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "political scandals"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "publication",
+              "multiple": true,
+              "typeClass": "compound",
+              "value": [
+                {
+                  "publicationCitation": {
+                    "typeName": "publicationCitation",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "Preuss, S. and Wielhouwer, J.L. (2024). The reputational costs of connections to controversial politicians: Evidence from political scandals. Journal of Business Finance & Accounting, forthcoming, available online."
+                  },
+                  "publicationIDType": {
+                    "typeName": "publicationIDType",
+                    "multiple": false,
+                    "typeClass": "controlledVocabulary",
+                    "value": "doi"
+                  },
+                  "publicationIDNumber": {
+                    "typeName": "publicationIDNumber",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "10.1111/jbfa.12788"
+                  },
+                  "publicationURL": {
+                    "typeName": "publicationURL",
+                    "multiple": false,
+                    "typeClass": "primitive",
+                    "value": "https://onlinelibrary.wiley.com/doi/10.1111/jbfa.12788"
+                  }
+                }
+              ]
+            },
+            {
+              "typeName": "depositor",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "Wielhouwer, JL"
+            },
+            {
+              "typeName": "dateOfDeposit",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "2023-11-30"
+            }
+          ]
+        },
+        "dansDataVaultMetadata": {
+          "displayName": "Data Vault Metadata",
+          "name": "dansDataVaultMetadata",
+          "fields": [
+            {
+              "typeName": "dansDataversePid",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "doi:10.34894/RANITN"
+            },
+            {
+              "typeName": "dansDataversePidVersion",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "2.1"
+            },
+            {
+              "typeName": "dansBagId",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "urn:uuid:43f37a28-3c33-4604-86c3-1efa919986c2"
+            },
+            {
+              "typeName": "dansNbn",
+              "multiple": false,
+              "typeClass": "primitive",
+              "value": "urn:nbn:nl:ui:13-cc77b1cb-4ae4-442e-8086-264198a5a7de"
+            }
+          ]
+        }
+      },
+      "files": [
+        {
+          "label": "Data dictionary.pdf",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 25921,
+          "dataFile": {
+            "id": 402953,
+            "persistentId": "",
+            "filename": "Data dictionary.pdf",
+            "contentType": "application/pdf",
+            "friendlyType": "Adobe PDF",
+            "filesize": 149034,
+            "storageIdentifier": "surf://store:18d823371be-3bafa961142c",
+            "rootDataFileId": -1,
+            "checksum": {
+              "type": "SHA-1",
+              "value": "bb02b6dc196c343858989e2315539ca54869d830"
+            },
+            "tabularData": false,
+            "creationDate": "2024-02-07",
+            "publicationDate": "2024-02-07",
+            "lastUpdateTime": "2024-02-08T10:15:12Z",
+            "fileAccessRequest": false
+          }
+        },
+        {
+          "label": "Scandals and deaths of politicians.xlsx",
+          "restricted": false,
+          "version": 1,
+          "datasetVersionId": 25921,
+          "dataFile": {
+            "id": 402954,
+            "persistentId": "",
+            "filename": "Scandals and deaths of politicians.xlsx",
+            "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "friendlyType": "MS Excel Spreadsheet",
+            "filesize": 137190,
+            "storageIdentifier": "surf://store:18d82337565-b7da1a5cbc9f",
+            "rootDataFileId": -1,
+            "checksum": {
+              "type": "SHA-1",
+              "value": "3c65d40581af5eb6a943e65d3fee55a9f3f98879"
+            },
+            "tabularData": false,
+            "creationDate": "2024-02-07",
+            "publicationDate": "2024-02-07",
+            "lastUpdateTime": "2024-02-08T10:15:12Z",
+            "fileAccessRequest": false
+          }
+        }
+      ]
+    }
+  }
+}

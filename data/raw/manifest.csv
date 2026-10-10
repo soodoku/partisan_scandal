@@ -1,0 +1,5 @@
+file,source_member,bytes,sha256
+data/raw/approval/polldwcf.csv,partisanScandal/data/approval/polldwcf.csv,1550994,fcd53ca364300efedf0c1ac1749167963ee76b75a0f420121e76e75e49c3d8db
+data/raw/scandals/scandal_coding.csv,partisanScandal/data/scandals/scandal_coding.csv,24327,bc2af52d86149aa5b95d575ba974d91d64455b52f26e4768ddcd7b9b4aebfb63
+data/raw/scandals/Political Scandals - 2005-2011 - Sheet1.csv,partisanScandal/data/scandals/Political Scandals - 2005-2011 - Sheet1.csv,24143,76fdbbb392313d8e6dc0c44b55676291dc03436da9523ee4fab84b0e377a3545
+data/raw/scandals/PoliticalScandals2005-2011Codebook.pdf,partisanScandal/data/scandals/PoliticalScandals2005-2011Codebook.pdf,99942,32c3b9615694d668807b2bcfac46526517485f3dfd5013822e6f03a4ef021987

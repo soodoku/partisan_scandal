@@ -1,0 +1,296 @@
+"state","office","name","party","scandal_type","date_scandal_broke","source","comments","source_row","date","month_id","surname","key","identity_complete","dated","in_period","main_official","main_event","office_date"
+"AL","S","Richard Shelby","R","clean.","","","Clean, but kicked up some dust in Feb. 2010 when he put a blanket hold on all executive appointments in an attempt to get President Obama to address two projects that were planned in his state. http://www.thepoliticalguide.com/Profiles/Senate/Alabama/Richard_Shelby/Scandals/Blanket_Holds_and_Earmarks/",1,NA,NA,"shelby","AL|S|shelby",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"AL","S","Jeff Sessions","R","7","5/15/2009","http://abcnews.go.com/blogs/politics/2009/06/you-cant-dwell-on-those-things-sen-jeff-sessions-r-alarecently-told-the-examiners-byron-york-if-i-had-be/; http://www.theguardian.com/commentisfree/cifamerica/2009/may/05/jeff-sessions-arlen-specter-judiciary-committee","",2,2009-05-15,24113,"sessions","AL|S|sessions",TRUE,TRUE,TRUE,TRUE,TRUE,"AL|S|sessions|2009-05-15"
+"AL","G","Bob Riley","R","6","11/15/2005","http://www.washingtonpost.com/wp-dyn/content/article/2005/12/30/AR2005123001480_pf.html","",3,2005-11-15,24071,"riley","AL|G|riley",TRUE,TRUE,TRUE,TRUE,TRUE,"AL|G|riley|2005-11-15"
+"AL","G","Robert J. Bentley","R","8","1/19/2011","http://www.huffingtonpost.com/2011/01/19/robert-bentley-apologizes_n_811292.html ; http://abcnews.go.com/US/alabama-gov-robert-bentley-apologizes-christian-comments/story?id=12662495","",4,2011-01-19,24133,"bentley","AL|G|bentley",TRUE,TRUE,TRUE,FALSE,FALSE,"AL|G|bentley|2011-01-19"
+"AK","S","Ted Stevens","R","6","7/31/2007","http://www.nytimes.com/2007/07/31/washington/31stevens.html","",5,2007-07-31,24091,"stevens","AK|S|stevens",TRUE,TRUE,TRUE,FALSE,FALSE,"AK|S|stevens|2007-07-31"
+"AK","S","Lisa Murkowski","R","6","8/1/2007","http://www.nytimes.com/2007/08/01/washington/01stevens.html","",6,2007-08-01,24092,"murkowski","AK|S|murkowski",TRUE,TRUE,TRUE,FALSE,FALSE,"AK|S|murkowski|2007-08-01"
+"AK","S","Mark Begich","D","clean.","","","",7,NA,NA,"begich","AK|S|begich",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"AK","G","Frank Murkowski","R","6","3/4/2008","http://www.nytimes.com/2008/03/04/us/04alaska.html","",8,2008-03-04,24099,"murkowski","AK|G|murkowski",TRUE,TRUE,TRUE,FALSE,FALSE,"AK|G|murkowski|2008-03-04"
+"AK","G","Sarah Palin","R","9","9/1/2008","http://www.reuters.com/article/2008/09/01/us-usa-politics-palin-idUSN3125537020080901","",9,2008-09-01,24105,"palin","AK|G|palin",TRUE,TRUE,TRUE,FALSE,FALSE,"AK|G|palin|2008-09-01"
+"AK","G","Sarah Palin","R","6","7/28/2008","http://beta.newsminer.com/news/2008/jul/28/lawmakers-formally-call-investigation-palins-publi/","",10,2008-07-28,24103,"palin","AK|G|palin",TRUE,TRUE,TRUE,FALSE,FALSE,"AK|G|palin|2008-07-28"
+"AK","G","Sarah Palin","R","9","9/28/2008","http://www.canada.com/topics/news/world/story.html?id=3d17bbf2-556a-480a-9dce-21b958a89663","",11,2008-09-28,24105,"palin","AK|G|palin",TRUE,TRUE,TRUE,FALSE,FALSE,"AK|G|palin|2008-09-28"
+"AK","G","Sarah Palin","R","9","10/22/2008","http://www.azcentral.com/news/articles/2008/10/22/20081022palinclothes22-on.html","",12,2008-10-22,24106,"palin","AK|G|palin",TRUE,TRUE,TRUE,FALSE,FALSE,"AK|G|palin|2008-10-22"
+"AK","G","Sean Parnell","R","clean.","","","",13,NA,NA,"parnell","AK|G|parnell",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"AZ","S","John McCain","R","clean.","","","",14,NA,NA,"mccain","AZ|S|mccain",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"AZ","S","John Kyl","R","8","4/8/2011","http://www.politifact.com/truth-o-meter/statements/2011/apr/08/jon-kyl/jon-kyl-says-abortion-services-are-well-over-90-pe/","",15,2011-04-08,24136,"kyl","AZ|S|kyl",TRUE,TRUE,TRUE,FALSE,FALSE,"AZ|S|kyl|2011-04-08"
+"AZ","G","Janet Napolitano","D","","","http://www.cnn.com/2009/POLITICS/04/16/napolitano.apology/  ; http://www.huffingtonpost.com/richard-grenell/youre-doing-a-heck-of-a-j_b_406212.html  ;  http://www.telegraph.co.uk/news/worldnews/us-politics/9468557/Janet-Napolitanos-aides-sexually-humiliated-male-agents.html","",16,NA,NA,"napolitano","AZ|G|napolitano",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"AZ","G","Jan Brewer","R","8","6/2/2010","http://www.politicsdaily.com/2010/06/02/jan-brewer-claims-her-father-died-fighting-the-nazi-regime/","",17,2010-06-02,24126,"brewer","AZ|G|brewer",TRUE,TRUE,TRUE,FALSE,FALSE,"AZ|G|brewer|2010-06-02"
+"AZ","G","Jan Brewer","R","8","7/3/2010","http://www.cbsnews.com/news/jan-brewer-i-made-error-in-beheadings-claim/","",18,2010-07-03,24127,"brewer","AZ|G|brewer",TRUE,TRUE,TRUE,FALSE,FALSE,"AZ|G|brewer|2010-07-03"
+"AZ","G","Jan Brewer","R","6","4/9/2011","http://www.azcentral.com/news/articles/20110904arizona-prison-business-politics.html","",19,2011-04-09,24136,"brewer","AZ|G|brewer",TRUE,TRUE,TRUE,FALSE,FALSE,"AZ|G|brewer|2011-04-09"
+"CA","S","Dianne Feinstein","D","clean.","","","",20,NA,NA,"feinstein","CA|S|feinstein",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"CA","S","Barbara Boxer","D","clean.","","","",21,NA,NA,"boxer","CA|S|boxer",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"CA","G","Arnold Schwarzenegger","R","1","5/16/2011","http://www.nytimes.com/2011/05/18/us/18schwarzenegger.html?pagewanted=all&_r=0","",22,2011-05-16,24137,"schwarzenegger","CA|G|schwarzenegger",TRUE,TRUE,TRUE,FALSE,FALSE,"CA|G|schwarzenegger|2011-05-16"
+"CA","G","Arnold Schwarzenegger","R","3","10/2/2003","http://www.cnn.com/2003/ALLPOLITICS/10/02/recall.schwarzenegger/index.html?_s=PM:ALLPOLITICS","",23,2003-10-02,24046,"schwarzenegger","CA|G|schwarzenegger",TRUE,TRUE,FALSE,FALSE,FALSE,"CA|G|schwarzenegger|2003-10-02"
+"CA","G","Jerry Brown","D","clean.","","","",24,NA,NA,"brown","CA|G|brown",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"CO","S","Ken Salazar","D","clean.","","","",25,NA,NA,"salazar","CO|S|salazar",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"CO","S","Michael Bennet","D","clean.","","","",26,NA,NA,"bennet","CO|S|bennet",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"CO","S","Wayne Allard","R","clean.","","","",27,NA,NA,"allard","CO|S|allard",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"CO","S","Mark Udall","D","clean.","","","",28,NA,NA,"udall","CO|S|udall",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"CO","G","Bill Owens","R","clean.","","","",29,NA,NA,"owens","CO|G|owens",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"CO","G","Bill Ritter","D","clean.","","","",30,NA,NA,"ritter","CO|G|ritter",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"CO","G","John Hickenlooper","D","clean.","","","",31,NA,NA,"hickenlooper","CO|G|hickenlooper",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"CT","S","Joe Lieberman","D","clean.","","","",32,NA,NA,"lieberman","CT|S|lieberman",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"CT","S","Chris Dodd","D","6","6/12/2008","http://www.huffingtonpost.com/2008/06/13/chris-dodd-kent-conrad-ti_n_106925.html","",33,2008-06-12,24102,"dodd","CT|S|dodd",TRUE,TRUE,TRUE,FALSE,FALSE,"CT|S|dodd|2008-06-12"
+"CT","S","Richard Blumenthal","D","8","5/17/2010","http://www.nytimes.com/2010/05/18/nyregion/18blumenthal.html?pagewanted=all","",34,2010-05-17,24125,"blumenthal","CT|S|blumenthal",TRUE,TRUE,TRUE,FALSE,FALSE,"CT|S|blumenthal|2010-05-17"
+"CT","G","Jodi Rell","R","6","3/8/2006","http://www.courant.com/topic/politics/lisa-moody-hpp3319.topic","not much info on this, but definitely made local news within CT",35,2006-03-08,24075,"rell","CT|G|rell",TRUE,TRUE,TRUE,TRUE,TRUE,"CT|G|rell|2006-03-08"
+"CT","G","Dannel Malloy","D","clean.","","","",36,NA,NA,"malloy","CT|G|malloy",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"DE","S","Thomas R. Carper","D","clean.","","","",37,NA,NA,"carper","DE|S|carper",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"DE","S","Joe Biden","D","clean.","","","",38,NA,NA,"biden","DE|S|biden",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"DE","S","Ted Kaufman","D","clean.","","","",39,NA,NA,"kaufman","DE|S|kaufman",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"DE","S","Chris Coons","D","clean.","","","",40,NA,NA,"coons","DE|S|coons",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"DE","G","Ruth Ann Minner","D","clean.","","","Tied to campaign finance violations and accused of impropriety but only after her two terms, can't find record of any news breaking during her tenure (http://archive.delawareonline.com/article/20100523/NEWS02/5230349/Delaware-government-Friend-Minner-s-got-sweet-deal-from-state)",41,NA,NA,"minner","DE|G|minner",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"DE","G","Jack Markell","D","clean.","","","",42,NA,NA,"markell","DE|G|markell",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"FL","S","Bill Nelson","D","6","2/17/2009","http://www.nytimes.com/2009/02/18/us/politics/18lobby.html?ref=billnelson&_r=0","",43,2009-02-17,24110,"nelson","FL|S|nelson",TRUE,TRUE,TRUE,FALSE,FALSE,"FL|S|nelson|2009-02-17"
+"FL","S","Mel Martinez","R","8","4/6/2005","http://www.washingtonpost.com/wp-dyn/articles/A32554-2005Apr6.html","",44,2005-04-06,24064,"martinez","FL|S|martinez",TRUE,TRUE,TRUE,FALSE,FALSE,"FL|S|martinez|2005-04-06"
+"FL","S","George LeMieux","R","clean.","","","Plenty of scandals picked up by fringe sources, including some sort of bizarre gay sex scandal covered by the huffington post (http://www.huffingtonpost.com/2012/06/12/charlie-crist-gay-rumors-george-lemieux_n_1589539.html), but nothing that really sticks.",45,NA,NA,"lemieux","FL|S|lemieux",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"FL","S","Marco Rubio","R","6","4/22/2010","http://www.foxnews.com/politics/2010/04/22/gop-credit-scandal-threatens-halt-rubios-momentum-primary/","",46,2010-04-22,24124,"rubio","FL|S|rubio",TRUE,TRUE,TRUE,FALSE,FALSE,"FL|S|rubio|2010-04-22"
+"","","Marco Rubio","R","8","10/20/2011","http://www.washingtonpost.com/politics/marco-rubios-compelling-family-story-embellishes-facts-documents-show/2011/10/20/gIQAaVHD1L_story.html","coded as an 8, he lied about family history.",47,2011-10-20,24142,"rubio","||rubio",FALSE,TRUE,TRUE,FALSE,FALSE,"||rubio|2011-10-20"
+"FL","G","Jeb Bush","R","clean.","","","",48,NA,NA,"bush","FL|G|bush",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"FL","G","Charlie Crist","R","clean.","","","",49,NA,NA,"crist","FL|G|crist",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"FL","G","Rick Scott","R","clean.","","","",50,NA,NA,"scott","FL|G|scott",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"GA","S","Saxby Chambliss","R","clean.","","","",51,NA,NA,"chambliss","GA|S|chambliss",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"GA","S","Johnny Isakson","R","clean.","","","",52,NA,NA,"isakson","GA|S|isakson",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"GA","G","George E. ""Sonny"" Perdue","R","clean.","","","",53,NA,NA,"perdue","GA|G|perdue",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"GA","G","Nathan Deal","R","6","3/29/2010","http://www.nytimes.com/2010/03/30/us/30ethics.html?hp","",54,2010-03-29,24123,"deal","GA|G|deal",TRUE,TRUE,TRUE,FALSE,FALSE,"GA|G|deal|2010-03-29"
+"HI","S","Daniel Akaka","D","clean.","","","",55,NA,NA,"akaka","HI|S|akaka",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"HI","S","Daniel Inouye","D","clean.","","","",56,NA,NA,"inouye","HI|S|inouye",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"HI","G","Linda Lingle","R","clean.","","","",57,NA,NA,"lingle","HI|G|lingle",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"HI","G","Neil Abercrombie","D","clean.","","","",58,NA,NA,"abercrombie","HI|G|abercrombie",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"ID","S","Larry Craig","R","2","8/27/2007","http://www.washingtonpost.com/wp-dyn/content/article/2007/08/27/AR2007082701235.html","",59,2007-08-27,24092,"craig","ID|S|craig",TRUE,TRUE,TRUE,FALSE,FALSE,"ID|S|craig|2007-08-27"
+"ID","S","Jim Risch","R","clean.","","","",60,NA,NA,"risch","ID|S|risch",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"ID","S","Mike Crapo","R","clean.","","","",61,NA,NA,"crapo","ID|S|crapo",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"ID","G","Dirk Kempthorne","R","clean.","","","",62,NA,NA,"kempthorne","ID|G|kempthorne",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"ID","G","Jim Risch","R","clean.","","","",63,NA,NA,"risch","ID|G|risch",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"ID","G","C.L. ""Butch"" Otter","R","clean.","","","",64,NA,NA,"otter","ID|G|otter",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"IL","S","Dick Durbin","D","8","6/22/2005","http://www.washingtonpost.com/wp-dyn/content/article/2005/06/21/AR2005062101654.html","",65,2005-06-22,24066,"durbin","IL|S|durbin",TRUE,TRUE,TRUE,FALSE,FALSE,"IL|S|durbin|2005-06-22"
+"IL","S","Barack Obama","D","clean.","","","",66,NA,NA,"obama","IL|S|obama",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"IL","S","Roland Burris","D","6","12/30/2008","http://abcnews.go.com/Politics/President44/story?id=6549766","",67,2008-12-30,24108,"burris","IL|S|burris",TRUE,TRUE,TRUE,FALSE,FALSE,"IL|S|burris|2008-12-30"
+"IL","S","Mark Kirk","R","8","6/3/2010","http://www.politicalwire.com/archives/2010/06/03/kirk_caught_misstating_his_military_record_again.html","",68,2010-06-03,24126,"kirk","IL|S|kirk",TRUE,TRUE,TRUE,FALSE,FALSE,"IL|S|kirk|2010-06-03"
+"IL","S","Mark Kirk","R","7","11/6/2005","http://www.cairchicago.org/2005/11/06/chicago-sun-times-kirk-ok-with-visa-bias-against-some-arab-men/","",69,2005-11-06,24071,"kirk","IL|S|kirk",TRUE,TRUE,TRUE,FALSE,FALSE,"IL|S|kirk|2005-11-06"
+"IL","S","Mark Kirk","R","6","5/30/2012","http://www.rollcall.com/issues/57_142/Mark-Kirks-2010-Campaign-Payments-to-Girlfriend-Draw-Scrutiny-214901-1.html","2010 scandal but looks like it may have not broken until 2012 (http://www.politico.com/news/stories/0512/76833.html)",70,2012-05-30,24149,"kirk","IL|S|kirk",TRUE,TRUE,FALSE,FALSE,FALSE,"IL|S|kirk|2012-05-30"
+"IL","G","Rod Blagojevich","D","6","12/10/2008","http://articles.chicagotribune.com/2008-12-10/news/chi-blagojevich-1210_1_political-corruption-crime-spree-blagojevich-attorney-sheldon-sorosky-blagojevich-case","",71,2008-12-10,24108,"blagojevich","IL|G|blagojevich",TRUE,TRUE,TRUE,FALSE,FALSE,"IL|G|blagojevich|2008-12-10"
+"IL","G","Pat Quinn","D","clean.","","","",72,NA,NA,"quinn","IL|G|quinn",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"IN","S","Richard Lugar","R","clean.","","","",73,NA,NA,"lugar","IN|S|lugar",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"IN","S","Evan Bayh","D","clean.","","","",74,NA,NA,"bayh","IN|S|bayh",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"IN","S","Dan Coats","R","clean.","","","",75,NA,NA,"coats","IN|S|coats",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"IN","G","Mitch Daniels","R","clean.","","","",76,NA,NA,"daniels","IN|G|daniels",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"IN","G","Mike Pence","R","clean.","","","",77,NA,NA,"pence","IN|G|pence",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"IA","S","Chuck Grassley","R","8","3/16/2009","http://www.politico.com/news/stories/0309/20083.html","",78,2009-03-16,24111,"grassley","IA|S|grassley",TRUE,TRUE,TRUE,TRUE,TRUE,"IA|S|grassley|2009-03-16"
+"IA","S","Tom Harkin","D","clean.","","","",79,NA,NA,"harkin","IA|S|harkin",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"IA","G","Tom Vilsack","D","clean.","","","",80,NA,NA,"vilsack","IA|G|vilsack",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"IA","G","Chet Culver","D","clean.","","","",81,NA,NA,"culver","IA|G|culver",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"IA","G","Terry E. Branstad","R","clean.","","","",82,NA,NA,"branstad","IA|G|branstad",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"KS","S","Pat Roberts","R","clean.","","","",83,NA,NA,"roberts","KS|S|roberts",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"KS","S","Sam Brownback","R","clean.","","","",84,NA,NA,"brownback","KS|S|brownback",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"KS","S","Jerry Moran","R","clean.","","","",85,NA,NA,"moran","KS|S|moran",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"KS","G","Kathleen Sebelius","R","clean.","","","",86,NA,NA,"sebelius","KS|G|sebelius",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"KS","G","Mark Parkinson","D","clean.","","","",87,NA,NA,"parkinson","KS|G|parkinson",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"KS","G","Sam Brownback","R","clean.","","","",88,NA,NA,"brownback","KS|G|brownback",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"KY","S","Mitch McConnell","R","clean.","","","",89,NA,NA,"mcconnell","KY|S|mcconnell",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"KY","S","Jim Bunning","R","8","2/23/2009","http://www.politico.com/blogs/anneschroeder/0209/Sen_Jim_Bunning_apologizes.html","",90,2009-02-23,24110,"bunning","KY|S|bunning",TRUE,TRUE,TRUE,TRUE,TRUE,"KY|S|bunning|2009-02-23"
+"KY","S","Rand Paul","R","7","5/21/2010","http://www.washingtonpost.com/wp-dyn/content/article/2010/05/20/AR2010052003500.html","",91,2010-05-21,24125,"paul","KY|S|paul",TRUE,TRUE,TRUE,FALSE,FALSE,"KY|S|paul|2010-05-21"
+"KY","G","Ernie Fletcher","R","6","5/12/2006","http://www.cnn.com/2006/LAW/05/12/governor.indicted/","",92,2006-05-12,24077,"fletcher","KY|G|fletcher",TRUE,TRUE,TRUE,TRUE,TRUE,"KY|G|fletcher|2006-05-12"
+"KY","G","Steve Beshear","D","clean.","","","",93,NA,NA,"beshear","KY|G|beshear",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"LA","S","Mary Landrieu","D","clean.","","","",94,NA,NA,"landrieu","LA|S|landrieu",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"LA","S","David Vitter","R","2","7/9/2007","http://www.cbsnews.com/news/senator-caught-in-dc-madam-scandal/","",95,2007-07-09,24091,"vitter","LA|S|vitter",TRUE,TRUE,TRUE,FALSE,FALSE,"LA|S|vitter|2007-07-09"
+"LA","S","David Vitter","R","1","7/9/2007","http://www.cbsnews.com/news/senator-caught-in-dc-madam-scandal/","",96,2007-07-09,24091,"vitter","LA|S|vitter",TRUE,TRUE,TRUE,FALSE,FALSE,"LA|S|vitter|2007-07-09"
+"LA","G","Kathleen Babineaux Blanco","D","clean.","","","",97,NA,NA,"blanco","LA|G|blanco",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"LA","G","Bobby Jindal","R","6","3/2/2011","http://www.nytimes.com/2011/03/03/us/politics/03jindal.html?pagewanted=1&_r=1&hp","",98,2011-03-02,24135,"jindal","LA|G|jindal",TRUE,TRUE,TRUE,FALSE,FALSE,"LA|G|jindal|2011-03-02"
+"ME","S","Susan Collins","R","clean.","","","",99,NA,NA,"collins","ME|S|collins",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"ME","S","Olympia Snowe","R","clean.","","","",100,NA,NA,"snowe","ME|S|snowe",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"ME","G","John Baldacci","D","clean.","","","",101,NA,NA,"baldacci","ME|G|baldacci",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"ME","G","Paul LePage","R","8","2/11/2011","http://www.huffingtonpost.com/2011/02/23/maine-gov-paul-lepage-on-_n_827208.html","",102,2011-02-11,24134,"lepage","ME|G|lepage",TRUE,TRUE,TRUE,FALSE,FALSE,"ME|G|lepage|2011-02-11"
+"ME","G","Paul LePage","R","8","1/14/2011","http://www.nytimes.com/2011/01/15/us/15lepage.html","",103,2011-01-14,24133,"lepage","ME|G|lepage",TRUE,TRUE,TRUE,FALSE,FALSE,"ME|G|lepage|2011-01-14"
+"ME","G","Paul LePage","R","6","12/24/2010","http://www.pressherald.com/2010/12/24/democrats-call-hiring-of-lepages-daughter-brazen-nepotism_2010-12-24/","",104,2010-12-24,24132,"lepage","ME|G|lepage",TRUE,TRUE,TRUE,FALSE,FALSE,"ME|G|lepage|2010-12-24"
+"MD","S","Paul Sarbanes","D","clean.","","","",105,NA,NA,"sarbanes","MD|S|sarbanes",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MD","S","Ben Cardin","D","clean.","","","",106,NA,NA,"cardin","MD|S|cardin",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MD","S","Barbara Mikulski","D","clean.","","","",107,NA,NA,"mikulski","MD|S|mikulski",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MD","G","Robert L. Ehrlich, Jr.","R","6","12/6/2011","http://www.washingtonpost.com/local/dc-politics/ex-ehrlich-campaign-manager-schurick-convicted-in-robocall-case/2011/12/06/gIQA6rNsaO_story.html","",108,2011-12-06,24144,"ehrlich","MD|G|ehrlich",TRUE,TRUE,TRUE,FALSE,FALSE,"MD|G|ehrlich|2011-12-06"
+"MD","G","Robert L. Ehrlich, Jr.","R","6","11/7/2006","http://www.washingtonpost.com/wp-dyn/content/article/2006/11/06/AR2006110601211.html","",109,2006-11-07,24083,"ehrlich","MD|G|ehrlich",TRUE,TRUE,TRUE,FALSE,FALSE,"MD|G|ehrlich|2006-11-07"
+"MD","G","Martin J. O'Malley","D","6","6/19/2008","http://www.washingtontimes.com/news/2008/jun/19/omalley-donor-gains-highway-access/","",110,2008-06-19,24102,"o'malley","MD|G|o'malley",TRUE,TRUE,TRUE,FALSE,FALSE,"MD|G|o'malley|2008-06-19"
+"MD","G","Martin J. O'Malley","D","9","2/9/2005","http://www.washingtonpost.com/wp-dyn/articles/A9117-2005Feb8.html","",111,2005-02-09,24062,"o'malley","MD|G|o'malley",TRUE,TRUE,TRUE,FALSE,FALSE,"MD|G|o'malley|2005-02-09"
+"MA","S","John Kerry","D","9","11/1/2006","http://www.nbcnews.com/id/13018908/ns/politics/t/kerry-apologizes-troops-after-botched-joke/#.U5vNRK2xImY","",112,2006-11-01,24083,"kerry","MA|S|kerry",TRUE,TRUE,TRUE,TRUE,TRUE,"MA|S|kerry|2006-11-01"
+"MA","S","Ted Kennedy","D","clean.","","","",113,NA,NA,"kennedy","MA|S|kennedy",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MA","S","Paul Kirk","D","clean.","","","",114,NA,NA,"kirk","MA|S|kirk",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MA","S","Scott Brown","R","9","5/6/2011","http://boston.cbslocal.com/2011/05/06/scott-brown-on-bin-laden-photo-gaffe-i-wasnt-the-only-one/","",115,2011-05-06,24137,"brown","MA|S|brown",TRUE,TRUE,TRUE,FALSE,FALSE,"MA|S|brown|2011-05-06"
+"MA","G","Mitt Romney","R","clean.","","","",116,NA,NA,"romney","MA|G|romney",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MA","G","Deval Patrick","D","6","12/29/2008","http://bostonherald.com/news_opinion/local_politics/2008/12/deval_patrick_hired_neighbor_120g_job","",117,2008-12-29,24108,"patrick","MA|G|patrick",TRUE,TRUE,TRUE,FALSE,FALSE,"MA|G|patrick|2008-12-29"
+"MA","G","Deval Patrick","D","6","2/21/2007","http://www.boston.com/news/local/articles/2007/02/21/patrick_to_repay_taxpayers_for_decor/","",118,2007-02-21,24086,"patrick","MA|G|patrick",TRUE,TRUE,TRUE,FALSE,FALSE,"MA|G|patrick|2007-02-21"
+"MA","G","Deval Patrick","D","6","3/7/2007","http://www.wbur.org/2007/03/07/patricks-bad-call","",119,2007-03-07,24087,"patrick","MA|G|patrick",TRUE,TRUE,TRUE,FALSE,FALSE,"MA|G|patrick|2007-03-07"
+"MI","S","Debbie Stabenow","D","clean.","","","",120,NA,NA,"stabenow","MI|S|stabenow",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MI","S","Carl Levin","D","clean.","","","",121,NA,NA,"levin","MI|S|levin",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MI","G","Jennifer Granholm","D","9","3/24/2009","http://politicalticker.blogs.cnn.com/2009/03/24/granholm-not-apologizing-for-palin-joke/","",122,2009-03-24,24111,"granholm","MI|G|granholm",TRUE,TRUE,TRUE,FALSE,FALSE,"MI|G|granholm|2009-03-24"
+"MI","G","Rick Snyder","R","clean.","","","",123,NA,NA,"snyder","MI|G|snyder",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MN","S","Mark Dayton","D","clean.","","","",124,NA,NA,"dayton","MN|S|dayton",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MN","S","Amy Klobuchar","D","clean.","","","",125,NA,NA,"klobuchar","MN|S|klobuchar",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MN","S","Norm Coleman","R","6","10/30/2008","http://www.cbsnews.com/news/lawsuit-colemans-wife-received-75000-in-payments/","",126,2008-10-30,24106,"coleman","MN|S|coleman",TRUE,TRUE,TRUE,TRUE,TRUE,"MN|S|coleman|2008-10-30"
+"MN","S","Al Franken","D","clean.","","","",127,NA,NA,"franken","MN|S|franken",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MN","G","Tim Pawlenty","R","clean.","","","",128,NA,NA,"pawlenty","MN|G|pawlenty",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MN","G","Mark Dayton","D","clean.","","","",129,NA,NA,"dayton","MN|G|dayton",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MS","S","Trent Lott","R","clean.","","","something seems fishy in his dealings with brother-in-law litigator Dickie Scruggs but can't substantiate it with major news",130,NA,NA,"lott","MS|S|lott",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MS","S","Roger Wicker","R","clean.","","","",131,NA,NA,"wicker","MS|S|wicker",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MS","S","Thad Cochran","R","clean.","","","",132,NA,NA,"cochran","MS|S|cochran",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MS","G","Haley Barbour","R","7","12/22/2010","http://www.npr.org/blogs/itsallpolitics/2010/12/21/132228034/haley-barbours-praise-for-racist-group-gets-plenty-notice","",133,2010-12-22,24132,"barbour","MS|G|barbour",TRUE,TRUE,TRUE,FALSE,FALSE,"MS|G|barbour|2010-12-22"
+"MS","G","Haley Barbour","R","7","5/24/2011","http://www.washingtonpost.com/blogs/post-partisan/post/haley-barbours-apology-to-the-freedom-riders/2011/03/04/AFt2cdAH_blog.html","",134,2011-05-24,24137,"barbour","MS|G|barbour",TRUE,TRUE,TRUE,FALSE,FALSE,"MS|G|barbour|2011-05-24"
+"MO","S","Jim Talent","R","clean.","","","",135,NA,NA,"talent","MO|S|talent",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MO","S","Claire McCaskill","D","6","3/11/2011","http://www.politico.com/news/stories/0311/51675.html","",136,2011-03-11,24135,"mccaskill","MO|S|mccaskill",TRUE,TRUE,TRUE,FALSE,FALSE,"MO|S|mccaskill|2011-03-11"
+"MO","S","Kit Bond","R","6","11/30/2008","http://thinkprogress.org/politics/2008/09/30/30006/kit-bond-todd-graves/","",137,2008-11-30,24107,"bond","MO|S|bond",TRUE,TRUE,TRUE,TRUE,TRUE,"MO|S|bond|2008-11-30"
+"MO","S","Roy Blunt","R","clean.","","","",138,NA,NA,"blunt","MO|S|blunt",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MO","G","Matt Blunt","R","6","1/10/2008","http://crooksandliars.com/2008/01/10/missouri-gov-matt-blunt-has-an-email-problem","",139,2008-01-10,24097,"blunt","MO|G|blunt",TRUE,TRUE,TRUE,TRUE,TRUE,"MO|G|blunt|2008-01-10"
+"MO","S","Jay Nixon","D","clean.","","","",140,NA,NA,"nixon","MO|S|nixon",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MT","S","Conrad Burns","R","9","8/3/2006","http://www.washingtonpost.com/wp-dyn/content/article/2006/08/03/AR2006080300249.html","",141,2006-08-03,24080,"burns","MT|S|burns",TRUE,TRUE,TRUE,TRUE,FALSE,"MT|S|burns|2006-08-03"
+"MT","S","Conrad Burns","R","6","3/27/2006","http://www.npr.org/templates/story/story.php?storyId=5299944","",142,2006-03-27,24075,"burns","MT|S|burns",TRUE,TRUE,TRUE,TRUE,TRUE,"MT|S|burns|2006-03-27"
+"MT","S","Jon Tester","D","6","4/20/2011","http://thehill.com/business-a-lobbying/156911-swipe-fee-opponents-direct-campaign-money-to-tester","",143,2011-04-20,24136,"tester","MT|S|tester",TRUE,TRUE,TRUE,FALSE,FALSE,"MT|S|tester|2011-04-20"
+"MT","S","Max Baucus","D","clean.","","","",144,NA,NA,"baucus","MT|S|baucus",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"MT","G","Brian Schweitzer","D","clean.","","","",145,NA,NA,"schweitzer","MT|G|schweitzer",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NE","S","Ben Nelson","D","clean.","","","",146,NA,NA,"nelson","NE|S|nelson",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NE","S","Chuck Hagel","R","clean.","","","",147,NA,NA,"hagel","NE|S|hagel",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NE","S","Mike Johanns","R","clean.","","","",148,NA,NA,"johanns","NE|S|johanns",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NE","G","Dave Heineman","R","clean.","","","",149,NA,NA,"heineman","NE|G|heineman",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NV","S","Harry Reid","D","7","1/9/2010","http://www.cnn.com/2010/POLITICS/01/09/obama.reid/","",150,2010-01-09,24121,"reid","NV|S|reid",TRUE,TRUE,TRUE,FALSE,FALSE,"NV|S|reid|2010-01-09"
+"NV","S","John Ensign","R","6","5/12/2011","http://www.washingtonpost.com/politics/ethics-committee-to-unveil-ensign-probe-findings-in-senate-speeches/2011/05/12/AFhRvA0G_story.html","",151,2011-05-12,24137,"ensign","NV|S|ensign",TRUE,TRUE,TRUE,FALSE,FALSE,"NV|S|ensign|2011-05-12"
+"NV","S","John Ensign","R","1","6/16/2009","http://www.theguardian.com/world/feedarticle/8561969","",152,2009-06-16,24114,"ensign","NV|S|ensign",TRUE,TRUE,TRUE,FALSE,FALSE,"NV|S|ensign|2009-06-16"
+"NV","S","Dean Heller","R","9","2/23/2010","http://www.lasvegassun.com/news/2010/feb/23/heller-government-creating-hobos/","",153,2010-02-23,24122,"heller","NV|S|heller",TRUE,TRUE,TRUE,FALSE,FALSE,"NV|S|heller|2010-02-23"
+"NV","G","Kenny Guinn","R","clean.","","","",154,NA,NA,"guinn","NV|G|guinn",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NV","G","Jim Gibbons","R","6","4/7/2007","http://www.reviewjournal.com/news/gibbons07-legal-defense-funds-256000","",155,2007-04-07,24088,"gibbons","NV|G|gibbons",TRUE,TRUE,TRUE,FALSE,FALSE,"NV|G|gibbons|2007-04-07"
+"NV","G","Jim Gibbons","R","6","8/3/2007","http://nl.newsbank.com/nl-search/we/Archives?p_product=LVRB&p_theme=lvrb&p_action=search&p_maxdocs=200&p_text_search-0=Jim%20AND%20gibbons&s_dispstring=Jim%20gibbons%20AND%20date(8/1/2007%20to%208/3/2007)&p_field_date-0=YMD_date&p_params_date-0=date:B,E&p_text_date-0=8/1/2007%20to%208/3/2007)&xcal_numdocs=20&p_perpage=10&p_sort=YMD_date:D&xcal_useweights=no","",156,2007-08-03,24092,"gibbons","NV|G|gibbons",TRUE,TRUE,TRUE,FALSE,FALSE,"NV|G|gibbons|2007-08-03"
+"NV","G","Jim Gibbons","R","9","10/5/2008","http://www.lasvegassun.com/news/2008/oct/05/where-does-gibbons-work-apparently-not-his-desk/","",157,2008-10-05,24106,"gibbons","NV|G|gibbons",TRUE,TRUE,TRUE,FALSE,FALSE,"NV|G|gibbons|2008-10-05"
+"NV","G","Jim Gibbons","R","3","10/19/2006","http://www.foxnews.com/story/2006/12/27/nevada-governor-elect-gibbons-will-not-face-assault-charges","",158,2006-10-19,24082,"gibbons","NV|G|gibbons",TRUE,TRUE,TRUE,FALSE,FALSE,"NV|G|gibbons|2006-10-19"
+"NV","G","Jim Gibbons","R","6","8/1/2007","http://nl.newsbank.com/nl-search/we/Archives?p_product=LVRB&p_theme=lvrb&p_action=search&p_maxdocs=200&p_text_search-0=Jim%20AND%20gibbons&s_dispstring=Jim%20gibbons%20AND%20date(8/1/2007%20to%208/3/2007)&p_field_date-0=YMD_date&p_params_date-0=date:B,E&p_text_date-0=8/1/2007%20to%208/3/2007)&xcal_numdocs=20&p_perpage=10&p_sort=YMD_date:D&xcal_useweights=no","",159,2007-08-01,24092,"gibbons","NV|G|gibbons",TRUE,TRUE,TRUE,FALSE,FALSE,"NV|G|gibbons|2007-08-01"
+"NV","G","Jim Gibbons","R","6","7/12/2008","http://www.reviewjournal.com/news/gibbons-tax-break-questioned","",160,2008-07-12,24103,"gibbons","NV|G|gibbons",TRUE,TRUE,TRUE,FALSE,FALSE,"NV|G|gibbons|2008-07-12"
+"NV","G","Jim Gibbons","R","6","7/22/2008","http://www.reviewjournal.com/opinion/governors-land-deal","",161,2008-07-22,24103,"gibbons","NV|G|gibbons",TRUE,TRUE,TRUE,FALSE,FALSE,"NV|G|gibbons|2008-07-22"
+"NV","G","Brian Sandoval","R","clean.","","","",162,NA,NA,"sandoval","NV|G|sandoval",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NH","S","John Sununu","R","clean.","","","clean from 2005-2011 but recent comments have gotten him in a bit of trouble",163,NA,NA,"sununu","NH|S|sununu",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NH","S","Jeanne Shaheen","D","clean.","","","",164,NA,NA,"shaheen","NH|S|shaheen",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NH","S","Judd Gregg","R","6","2/27/2009","http://www.dailyprogress.com/news/ap-exclusive-gregg-had-stake-in-won-aid-for-base/article_80dff278-23e2-5166-8ea7-39c5b93a636a.html","",165,2009-02-27,24110,"gregg","NH|S|gregg",TRUE,TRUE,TRUE,FALSE,FALSE,"NH|S|gregg|2009-02-27"
+"NH","S","Kelly Ayotte","R","clean.","","","",166,NA,NA,"ayotte","NH|S|ayotte",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NH","G","John Lynch","D","clean.","","","",167,NA,NA,"lynch","NH|G|lynch",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NH","G","Maggie Hassan","D","clean.","","","",168,NA,NA,"hassan","NH|G|hassan",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NJ","S","Jon Corzine","D","clean.","","","CEO of MF Global after his political career and ran into serious trouble there, but clean during political tenure (http://www.npr.org/blogs/thetwo-way/2011/12/08/143336394/corzine-apologizes-defends-actions-of-mf-global-may-invoke-fifth)",169,NA,NA,"corzine","NJ|S|corzine",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NJ","S","Bob Menendez","D","6","2/11/2010","http://njtoday.net/2010/02/11/menendez-sought-bank-bailout-for-campaign-contributors/","",170,2010-02-11,24122,"menendez","NJ|S|menendez",TRUE,TRUE,TRUE,FALSE,FALSE,"NJ|S|menendez|2010-02-11"
+"NJ","S","Frank Lautenberg","D","9","3/25/2011","http://www.thepoliticalguide.com/Profiles/Senate/New_Jersey/Frank_Lautenberg/Scandals/TEA_Party_People_Don't_Deserve_Rights/","",171,2011-03-25,24135,"lautenberg","NJ|S|lautenberg",TRUE,TRUE,TRUE,TRUE,FALSE,"NJ|S|lautenberg|2011-03-25"
+"NJ","S","Frank Lautenberg","D","9","2/28/2006","http://edition.cnn.com/TRANSCRIPTS/0602/28/ldt.01.html","",172,2006-02-28,24074,"lautenberg","NJ|S|lautenberg",TRUE,TRUE,TRUE,TRUE,TRUE,"NJ|S|lautenberg|2006-02-28"
+"NJ","G","Richard Codey","D","8","1/29/2005","http://radio.about.com/od/archivednewsondjshosts/a/aa012905a.htm","",173,2005-01-29,24061,"codey","NJ|G|codey",TRUE,TRUE,TRUE,FALSE,FALSE,"NJ|G|codey|2005-01-29"
+"NJ","G","Jon Corzine","D","clean.","","","",174,NA,NA,"corzine","NJ|G|corzine",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NJ","G","Chris Christie","R","6","6/2/2011","http://www.huffingtonpost.com/2011/06/02/chris-christie-helicopter_n_870325.html","",175,2011-06-02,24138,"christie","NJ|G|christie",TRUE,TRUE,TRUE,FALSE,FALSE,"NJ|G|christie|2011-06-02"
+"NJ","G","Chris Christie","R","6","10/19/2009","http://www.nytimes.com/2009/10/20/nyregion/20brown.html?pagewanted=all","",176,2009-10-19,24118,"christie","NJ|G|christie",TRUE,TRUE,TRUE,FALSE,FALSE,"NJ|G|christie|2009-10-19"
+"NJ","G","Chris Christie","R","6","1/10/2008","http://www.nytimes.com/2008/01/10/washington/10justice.html?pagewanted=all","",177,2008-01-10,24097,"christie","NJ|G|christie",TRUE,TRUE,TRUE,FALSE,FALSE,"NJ|G|christie|2008-01-10"
+"NM","S","Jeff Bingaman","D","clean.","","","",178,NA,NA,"bingaman","NM|S|bingaman",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NM","S","Pete Domenici","R","6","3/5/2007","http://www.washingtonpost.com/wp-dyn/content/article/2007/03/04/AR2007030400507.html","",179,2007-03-05,24087,"domenici","NM|S|domenici",TRUE,TRUE,TRUE,TRUE,TRUE,"NM|S|domenici|2007-03-05"
+"NM","S","Tom Udall","D","clean.","","","",180,NA,NA,"udall","NM|S|udall",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NM","G","Bill Richardson","D","6","12/15/2008","http://www.nydailynews.com/news/politics/scandal-hits-obama-administration-new-mexico-gov-bill-richardson-withdraws-commerce-secretary-article-1.420309","",181,2008-12-15,24108,"richardson","NM|G|richardson",TRUE,TRUE,TRUE,TRUE,TRUE,"NM|G|richardson|2008-12-15"
+"NM","G","Susana Martinez","R","clean.","","","",182,NA,NA,"martinez","NM|G|martinez",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NY","S","Hillary Rodham Clinton","D","clean.","","","",183,NA,NA,"clinton","NY|S|clinton",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NY","S","Kirsten Gillibrand","D","clean.","","","",184,NA,NA,"gillibrand","NY|S|gillibrand",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NY","S","Chuck Schumer","D","9","8/8/2010","http://blogs.wsj.com/indiarealtime/2010/08/13/sorry-infosys-is-a-body-shop/","",185,2010-08-08,24128,"schumer","NY|S|schumer",TRUE,TRUE,TRUE,FALSE,FALSE,"NY|S|schumer|2010-08-08"
+"NY","S","Chuck Schumer","D","9","12/17/2009","http://www.nytimes.com/2009/12/17/nyregion/17schumer.html","",186,2009-12-17,24120,"schumer","NY|S|schumer",TRUE,TRUE,TRUE,FALSE,FALSE,"NY|S|schumer|2009-12-17"
+"NY","S","Chuck Schumer","D","9","6/11/2010","http://thinkprogress.org/security/2010/06/11/102026/schumer-strangle-gaza-economically/","",187,2010-06-11,24126,"schumer","NY|S|schumer",TRUE,TRUE,TRUE,FALSE,FALSE,"NY|S|schumer|2010-06-11"
+"NY","G","George Pataki","R","clean.","","","In wake of retirement faced small scandal re: use of private plane, but not during tenure as governor (http://nypost.com/2007/01/15/patakis-10g-bill-for-jet-hits-turbulence/)",188,NA,NA,"pataki","NY|G|pataki",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NY","G","Eliot Spitzer","D","2","3/11/2008","http://edition.cnn.com/2008/POLITICS/03/12/spitzer.investigation/index.html","",189,2008-03-11,24099,"spitzer","NY|G|spitzer",TRUE,TRUE,TRUE,FALSE,FALSE,"NY|G|spitzer|2008-03-11"
+"NY","G","David Paterson","D","6","2/24/2010","http://www.nytimes.com/2010/02/25/nyregion/25paterson.html?_r=0","",190,2010-02-24,24122,"paterson","NY|G|paterson",TRUE,TRUE,TRUE,FALSE,FALSE,"NY|G|paterson|2010-02-24"
+"NY","G","David Paterson","D","6","12/20/2010","http://cityroom.blogs.nytimes.com/2010/12/20/gov-paterson-fined-62125-for-taking-world-series-tickets/","",191,2010-12-20,24132,"paterson","NY|G|paterson",TRUE,TRUE,TRUE,FALSE,FALSE,"NY|G|paterson|2010-12-20"
+"NY","G","Andrew Cuomo","D","clean.","","","",192,NA,NA,"cuomo","NY|G|cuomo",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NC","S","Elizabeth Dole","R","clean.","","","",193,NA,NA,"dole","NC|S|dole",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NC","S","Kay Hagan","D","clean.","","","",194,NA,NA,"hagan","NC|S|hagan",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"NC","S","Richard Burr","R","8","4/15/2009","http://www.huffingtonpost.com/2009/04/15/burr-encourages-run-on-ba_n_187085.html","",195,2009-04-15,24112,"burr","NC|S|burr",TRUE,TRUE,TRUE,FALSE,FALSE,"NC|S|burr|2009-04-15"
+"NC","G","Mike Easley","D","6","6/30/2008","http://www.wral.com/news/state/story/3130945/","",196,2008-06-30,24102,"easley","NC|G|easley",TRUE,TRUE,TRUE,FALSE,FALSE,"NC|G|easley|2008-06-30"
+"NC","G","Mike Easley","D","6","11/24/2010","http://abc11.com/archive/7805624/","",197,2010-11-24,24131,"easley","NC|G|easley",TRUE,TRUE,TRUE,FALSE,FALSE,"NC|G|easley|2010-11-24"
+"NC","G","Beverly Perdue","D","6","11/28/2011","http://www.nccivitas.org/2011/three-former-campaign-staff-members-of-governor-beverly-perdue-indicted-by-grand-jury/","",198,2011-11-28,24143,"perdue","NC|G|perdue",TRUE,TRUE,TRUE,FALSE,FALSE,"NC|G|perdue|2011-11-28"
+"NC","G","Beverly Perdue","D","8","5/19/2011","http://www.wwaytv3.com/2011/05/19/politico-perdues-son-accuses-fundraiser-of-adultery","",199,2011-05-19,24137,"perdue","NC|G|perdue",TRUE,TRUE,TRUE,FALSE,FALSE,"NC|G|perdue|2011-05-19"
+"NC","G","Beverly Perdue","D","9","9/27/2011","http://thinkprogress.org/justice/2011/09/27/330060/north-carolina-governor-proposes-ignoring-constitution-and-suspending-congressional-elections-for-two-years/","",200,2011-09-27,24141,"perdue","NC|G|perdue",TRUE,TRUE,TRUE,FALSE,FALSE,"NC|G|perdue|2011-09-27"
+"ND","S","Byron Dorgan","D","6","12/5/2005","http://www.washingtonpost.com/wp-dyn/content/article/2005/12/04/AR2005120401158.html","",201,2005-12-05,24072,"dorgan","ND|S|dorgan",TRUE,TRUE,TRUE,TRUE,TRUE,"ND|S|dorgan|2005-12-05"
+"ND","S","John Hoeven","R","clean.","","","",202,NA,NA,"hoeven","ND|S|hoeven",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"ND","S","Kent Conrad","D","6","6/22/2008","http://www.nytimes.com/2008/06/22/opinion/22sun3.html?ref=opinion","",203,2008-06-22,24102,"conrad","ND|S|conrad",TRUE,TRUE,TRUE,FALSE,FALSE,"ND|S|conrad|2008-06-22"
+"ND","G","John Hoeven","R","clean.","","","",204,NA,NA,"hoeven","ND|G|hoeven",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"ND","G","Jack Dalrymple","R","clean.","","","",205,NA,NA,"dalrymple","ND|G|dalrymple",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"OH","S","Mike DeWine","R","clean.","","","",206,NA,NA,"dewine","OH|S|dewine",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"OH","S","Sherrod Brown","D","9","3/3/2011","http://www.politico.com/blogs/bensmith/0311/Sherrod_Brown_Like_Hitler.html","",207,2011-03-03,24135,"brown","OH|S|brown",TRUE,TRUE,TRUE,FALSE,FALSE,"OH|S|brown|2011-03-03"
+"OH","S","George Voinovich","R","clean.","","","",208,NA,NA,"voinovich","OH|S|voinovich",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"OH","S","Rob Portman","R","clean.","","","",209,NA,NA,"portman","OH|S|portman",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"OH","G","Bob Taft","R","6","8/17/2005","http://www.washingtonpost.com/wp-dyn/content/article/2005/08/17/AR2005081701209.html","",210,2005-08-17,24068,"taft","OH|G|taft",TRUE,TRUE,TRUE,TRUE,TRUE,"OH|G|taft|2005-08-17"
+"OH","G","Ted Strickland","D","clean.","","","",211,NA,NA,"strickland","OH|G|strickland",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"OH","G","John Kasich","R","8","2/17/2011","http://www.foxnews.com/politics/2011/02/17/kasich-earns-ire-public-safety-groups-calling-traffic-cop-idiot/","",212,2011-02-17,24134,"kasich","OH|G|kasich",TRUE,TRUE,TRUE,FALSE,FALSE,"OH|G|kasich|2011-02-17"
+"OK","S","Tom Coburn","R","6","5/12/2011","http://www.politico.com/news/stories/0511/54905.html","",213,2011-05-12,24137,"coburn","OK|S|coburn",TRUE,TRUE,TRUE,FALSE,FALSE,"OK|S|coburn|2011-05-12"
+"OK","S","Jim Inhofe","R","clean.","","","He's said a lot of dumb stuff about global warming, but not sure if you want me to code that, as its ostensibly a political opinion, even if it is contesting scientific fact (http://newsbusters.org/node/6562)",214,NA,NA,"inhofe","OK|S|inhofe",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"OK","G","Brad Henry","D","clean.","","","rape allegations against Henry's staff at the governor's mansion but nothing involving Henry himself (http://www.huffingtonpost.com/2009/10/12/brad-henry-rape-scandal-f_n_317720.html)",215,NA,NA,"henry","OK|G|henry",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"OK","G","Mary Fallin","R","clean.","","","",216,NA,NA,"fallin","OK|G|fallin",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"OR","S","Gordon Smith","R","clean.","","","",217,NA,NA,"smith","OR|S|smith",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"OR","S","Jeff Merkley","D","9","8/13/2008","http://www.politico.com/blogs/scorecard/0808/Merkley_doesnt_have_Georgia_on_his_mind.html","",218,2008-08-13,24104,"merkley","OR|S|merkley",TRUE,TRUE,TRUE,FALSE,FALSE,"OR|S|merkley|2008-08-13"
+"OR","S","Ron Wyden","D","clean.","","","",219,NA,NA,"wyden","OR|S|wyden",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"OR","G","Ted Kulongowski","D","clean.","","","",220,NA,NA,"kulongoski","OR|G|kulongoski",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"OR","G","John Kitzhaber","D","clean.","","","",221,NA,NA,"kitzhaber","OR|G|kitzhaber",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"PA","S","Rick Santorum","R","6","5/13/2011","http://www.huffingtonpost.com/2011/05/13/rick-santorum-john-ensign_n_861930.html","",222,2011-05-13,24137,"santorum","PA|S|santorum",TRUE,TRUE,TRUE,FALSE,FALSE,"PA|S|santorum|2011-05-13"
+"PA","S","Rick Santorum","R","7","7/11/2011","http://politicalticker.blogs.cnn.com/2011/07/11/gop-candidates-caught-in-slavery-controversy/","",223,2011-07-11,24139,"santorum","PA|S|santorum",TRUE,TRUE,TRUE,FALSE,FALSE,"PA|S|santorum|2011-07-11"
+"PA","S","Bob Casey, Jr.","D","clean.","","","",224,NA,NA,"casey","PA|S|casey",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"PA","S","Arlen Specter","R","7","12/16/2008","http://www.nbcphiladelphia.com/news/archive/Specter-Apologizes-for-Polish-Comments.html","",225,2008-12-16,24108,"specter","PA|S|specter",TRUE,TRUE,TRUE,FALSE,FALSE,"PA|S|specter|2008-12-16"
+"PA","S","Arlen Specter","D","clean.","","","",226,NA,NA,"specter","PA|S|specter",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"PA","S","Pat Toomey","R","clean.","","","",227,NA,NA,"toomey","PA|S|toomey",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"PA","G","Ed Rendell","D","6","8/28/2009","http://usatoday30.usatoday.com/money/perfi/funds/2009-08-26-pension-fund-political-donations_N.htm","",228,2009-08-28,24116,"rendell","PA|G|rendell",TRUE,TRUE,TRUE,FALSE,FALSE,"PA|G|rendell|2009-08-28"
+"PA","G","Tom Corbett","R","clean.","","","",229,NA,NA,"corbett","PA|G|corbett",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"RI","S","Lincoln Chafee","R","clean.","","","",230,NA,NA,"chafee","RI|S|chafee",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"RI","S","Sheldon Whitehouse","D","clean.","","","",231,NA,NA,"whitehouse","RI|S|whitehouse",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"RI","S","Jack Reed","D","clean.","","","",232,NA,NA,"reed","RI|S|reed",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"RI","G","Donald Carcieri","R","9","12/18/2007","http://blog.thephoenix.com/BLOGS/notfornothing/archive/2007/12/18/carcieri-roberts-and-last-week-s-snow-storm.aspx","",233,2007-12-18,24096,"carcieri","RI|G|carcieri",TRUE,TRUE,TRUE,FALSE,FALSE,"RI|G|carcieri|2007-12-18"
+"RI","G","Lincoln Chafee","I","clean.","","","",234,NA,NA,"chafee","RI|G|chafee",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"SC","S","Lindsey Graham","R","clean.","","","",235,NA,NA,"graham","SC|S|graham",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"SC","S","Jim DeMint","R","9","10/2/2010","http://www.huffingtonpost.com/2010/10/02/demint-gays-unmarried-pregnant-women-teachers_n_748131.html","",236,2010-10-02,24130,"demint","SC|S|demint",TRUE,TRUE,TRUE,FALSE,FALSE,"SC|S|demint|2010-10-02"
+"SC","G","Mark Sanford","R","1","6/25/2009","http://online.wsj.com/news/articles/SB124584667616347147?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB124584667616347147.html","",237,2009-06-25,24114,"sanford","SC|G|sanford",TRUE,TRUE,TRUE,FALSE,FALSE,"SC|G|sanford|2009-06-25"
+"SC","G","Mark Sanford","R","9","6/22/2009","http://www.wistv.com/Global/story.asp?S=10574191","",238,2009-06-22,24114,"sanford","SC|G|sanford",TRUE,TRUE,TRUE,FALSE,FALSE,"SC|G|sanford|2009-06-22"
+"SC","G","Mark Sanford","R","6","6/30/2009","http://www.cnn.com/2009/POLITICS/06/30/sanford/","",239,2009-06-30,24114,"sanford","SC|G|sanford",TRUE,TRUE,TRUE,FALSE,FALSE,"SC|G|sanford|2009-06-30"
+"SC","G","Nikki Haley","R","1","5/26/2010","http://www.nytimes.com/2010/05/26/us/politics/26haley.html?scp=1&sq=scandal&st=cse","",240,2010-05-26,24125,"haley","SC|G|haley",TRUE,TRUE,TRUE,FALSE,FALSE,"SC|G|haley|2010-05-26"
+"SC","G","Nikki Haley","R","6","9/10/2011","http://www.foxnews.com/politics/2011/09/10/south-carolina-governor-calls-reporter-little-girl-over-story/","",241,2011-09-10,24141,"haley","SC|G|haley",TRUE,TRUE,TRUE,FALSE,FALSE,"SC|G|haley|2011-09-10"
+"SC","G","Nikki Haley","R","8","9/10/2011","http://www.foxnews.com/politics/2011/09/10/south-carolina-governor-calls-reporter-little-girl-over-story/","",242,2011-09-10,24141,"haley","SC|G|haley",TRUE,TRUE,TRUE,FALSE,FALSE,"SC|G|haley|2011-09-10"
+"SD","S","Tim Johnson","D","clean.","","","",243,NA,NA,"johnson","SD|S|johnson",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"SD","S","John Thune","R","6","7/9/2010","http://www.nytimes.com/2006/02/28/politics/28lobby.html?pagewanted=all","",244,2010-07-09,24127,"thune","SD|S|thune",TRUE,TRUE,TRUE,FALSE,FALSE,"SD|S|thune|2010-07-09"
+"SD","G","M. Michael Rounds","R","6","4/8/2010","http://usatoday30.usatoday.com/news/washington/2010-04-08-blocked-flights-inside_N.htm","",245,2010-04-08,24124,"rounds","SD|G|rounds",TRUE,TRUE,TRUE,FALSE,FALSE,"SD|G|rounds|2010-04-08"
+"SD","G","Dennis Daugaard","R","clean.","","","",246,NA,NA,"daugaard","SD|G|daugaard",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"TN","S","Bill Frist","R","6","6/2/2006","http://query.nytimes.com/gst/fullpage.html?res=9E03E5DE1731F931A35755C0A9609C8B63","",247,2006-06-02,24078,"frist","TN|S|frist",TRUE,TRUE,TRUE,TRUE,FALSE,"TN|S|frist|2006-06-02"
+"TN","S","Bill Frist","R","6","9/23/2005","http://www.washingtonpost.com/wp-dyn/content/article/2005/09/23/AR2005092301811.html","",248,2005-09-23,24069,"frist","TN|S|frist",TRUE,TRUE,TRUE,TRUE,TRUE,"TN|S|frist|2005-09-23"
+"TN","S","Bob Corker","R","6","10/11/2006","http://www.commercialappeal.com/mca/politics/article/0,1426,MCA_1496_5057186,00.html","",249,2006-10-11,24082,"corker","TN|S|corker",TRUE,TRUE,TRUE,FALSE,FALSE,"TN|S|corker|2006-10-11"
+"TN","S","Bob Corker","R","6","8/25/2006","http://www.dailykos.com/story/2006/08/25/240101/-TN-Sen-Corker-R-hit-with-subpoena","",250,2006-08-25,24080,"corker","TN|S|corker",TRUE,TRUE,TRUE,FALSE,FALSE,"TN|S|corker|2006-08-25"
+"TN","S","Lamar Alexander","R","clean.","","","",251,NA,NA,"alexander","TN|S|alexander",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"TN","G","Phil Bredesen","D","clean.","","","",252,NA,NA,"bredesen","TN|G|bredesen",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"TN","G","Bill Haslam","R","clean.","","","",253,NA,NA,"haslam","TN|G|haslam",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"TX","S","Kay Bailey Hutchison","R","clean.","","","",254,NA,NA,"hutchison","TX|S|hutchison",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"TX","S","John Cornyn","R","9","6/29/2008","http://www.chron.com/news/houston-texas/article/Cornyn-s-Big-Bad-John-video-is-causing-quite-a-1618835.php","",255,2008-06-29,24102,"cornyn","TX|S|cornyn",TRUE,TRUE,TRUE,FALSE,FALSE,"TX|S|cornyn|2008-06-29"
+"TX","G","Rick Perry","R","9","11/9/2011","http://www.washingtonpost.com/blogs/the-fix/post/rick-perrys-oops-in-republican-debate-could-have-long-lasting-implications-for-his-campaign-video/2011/11/09/gIQAqUBr6M_blog.html","",256,2011-11-09,24143,"perry","TX|G|perry",TRUE,TRUE,TRUE,FALSE,FALSE,"TX|G|perry|2011-11-09"
+"TX","G","Rick Perry","R","7","10/1/2011","http://www.washingtonpost.com/national/rick-perry-familys-hunting-camp-still-known-to-many-by-old-racially-charged-name/2011/10/01/gIQAOhY5DL_story.html","",257,2011-10-01,24142,"perry","TX|G|perry",TRUE,TRUE,TRUE,FALSE,FALSE,"TX|G|perry|2011-10-01"
+"UT","S","Orrin Hatch","R","6","6/2/2009","http://www.washingtontimes.com/news/2009/mar/02/the-fog-of-congressional-transparency/","",258,2009-06-02,24114,"hatch","UT|S|hatch",TRUE,TRUE,TRUE,FALSE,FALSE,"UT|S|hatch|2009-06-02"
+"UT","S","Bob Bennett","R","clean.","","","",259,NA,NA,"bennett","UT|S|bennett",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"UT","S","Mike Lee","R","clean.","","","",260,NA,NA,"lee","UT|S|lee",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"UT","G","Jon Huntsman, Jr.","R","clean.","","","",261,NA,NA,"huntsman","UT|G|huntsman",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"UT","G","Gary Herbert","R","6","2/3/2010","http://www.deseretnews.com/article/700006916/Utah-Gov-Gary-Herbert-given-10K-by-Alton-Coal-Development.html","",262,2010-02-03,24122,"herbert","UT|G|herbert",TRUE,TRUE,TRUE,FALSE,FALSE,"UT|G|herbert|2010-02-03"
+"VT","S","Jim Jeffords","I","clean.","","","",263,NA,NA,"jeffords","VT|S|jeffords",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"VT","S","Bernie Sanders","D","clean.","","","",264,NA,NA,"sanders","VT|S|sanders",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"VT","S","Patrick Leahy","D","clean.","","","",265,NA,NA,"leahy","VT|S|leahy",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"VT","G","Jim Douglas","R","clean.","","","",266,NA,NA,"douglas","VT|G|douglas",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"VT","G","Peter Shumlin","D","9","3/9/2011","http://www.huffingtonpost.com/2011/03/09/peter-shumlin-caribbean_n_833757.html","",267,2011-03-09,24135,"shumlin","VT|G|shumlin",TRUE,TRUE,TRUE,FALSE,FALSE,"VT|G|shumlin|2011-03-09"
+"VA","S","George Allen","R","7","8/14/2006","http://www.washingtonpost.com/wp-dyn/content/article/2006/08/14/AR2006081400589.html","",268,2006-08-14,24080,"allen","VA|S|allen",TRUE,TRUE,TRUE,FALSE,FALSE,"VA|S|allen|2006-08-14"
+"VA","S","George Allen","R","7","9/24/2006","http://salon.com/news/feature/2006/09/24/allen_football/","",269,2006-09-24,24081,"allen","VA|S|allen",TRUE,TRUE,TRUE,FALSE,FALSE,"VA|S|allen|2006-09-24"
+"VA","S","Jim Webb","D","7","6/10/2006","http://www.outsidethebeltway.com/james_webb_accused_of_anti-semitism_in_democratic_primary/","",270,2006-06-10,24078,"webb","VA|S|webb",TRUE,TRUE,TRUE,FALSE,FALSE,"VA|S|webb|2006-06-10"
+"VA","S","John Warner","R","clean.","","","",271,NA,NA,"warner","VA|S|warner|R",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"VA","S","Mark Warner","D","clean.","","","",272,NA,NA,"warner","VA|S|warner|D",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"VA","G","Mark Warner","D","clean.","","","",273,NA,NA,"warner","VA|G|warner|D",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"VA","G","Tim Kaine","D","clean.","","","",274,NA,NA,"kaine","VA|G|kaine",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"VA","G","Bob McDonnell","R","8","8/29/2009","http://www.washingtonpost.com/wp-dyn/content/article/2009/08/29/AR2009082902434.html","",275,2009-08-29,24116,"mcdonnell","VA|G|mcdonnell",TRUE,TRUE,TRUE,FALSE,FALSE,"VA|G|mcdonnell|2009-08-29"
+"VA","G","Bob McDonnell","R","7","4/9/2010","http://theweek.com/article/index/201738/has-confederate-history-month-cost-bob-mcdonnell-a-2012-run","",276,2010-04-09,24124,"mcdonnell","VA|G|mcdonnell",TRUE,TRUE,TRUE,FALSE,FALSE,"VA|G|mcdonnell|2010-04-09"
+"WA","S","Maria Cantwell","D","1","10/2/2006","http://www.soundpolitics.com/archives/007001.html","",277,2006-10-02,24082,"cantwell","WA|S|cantwell",TRUE,TRUE,TRUE,TRUE,TRUE,"WA|S|cantwell|2006-10-02"
+"WA","S","Patty Murray","D","clean.","","","",278,NA,NA,"murray","WA|S|murray",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WA","G","Christine Gregoire","D","clean.","","","",279,NA,NA,"gregoire","WA|G|gregoire",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WV","S","Robert Byrd","D","clean.","","","",280,NA,NA,"byrd","WV|S|byrd",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WV","S","Carte Goodwin","D","clean.","","","",281,NA,NA,"goodwin","WV|S|goodwin",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WV","S","Joe Manchin","D","clean.","","","",282,NA,NA,"manchin","WV|S|manchin",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WV","S","Jay Rockefeller","D","clean.","","","",283,NA,NA,"rockefeller","WV|S|rockefeller",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WV","G","Joe Manchin","D","clean.","","","",284,NA,NA,"manchin","WV|G|manchin",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WV","G","Earl Ray Tomblin","D","clean.","","","",285,NA,NA,"tomblin","WV|G|tomblin",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WI","S","Herb Kohl","D","clean.","","","",286,NA,NA,"kohl","WI|S|kohl",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WI","S","Russ Feingold","D","clean.","","","",287,NA,NA,"feingold","WI|S|feingold",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WI","S","Ron Johnson","R","6","9/30/2010","http://www.msnbc.msn.com/id/32545640","",288,2010-09-30,24129,"johnson","WI|S|johnson",TRUE,TRUE,TRUE,FALSE,FALSE,"WI|S|johnson|2010-09-30"
+"WI","G","Jim Doyle","D","clean.","","","",289,NA,NA,"doyle","WI|G|doyle",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WI","G","Scott Walker","R","9","2/23/2011","http://www.npr.org/blogs/itsallpolitics/2011/02/23/133996140/wisconsins-gov-walker-takes-prank-call-from-fake-koch-brother","",290,2011-02-23,24134,"walker","WI|G|walker",TRUE,TRUE,TRUE,FALSE,FALSE,"WI|G|walker|2011-02-23"
+"WY","S","Craig Thomas","R","clean.","","","",291,NA,NA,"thomas","WY|S|thomas",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WY","S","John Barrasso","R","clean.","","","",292,NA,NA,"barrasso","WY|S|barrasso",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WY","S","Mike Enzi","R","clean.","","","",293,NA,NA,"enzi","WY|S|enzi",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WY","G","Dave Freudenthal","D","clean.","","","",294,NA,NA,"freudenthal","WY|G|freudenthal",TRUE,FALSE,FALSE,FALSE,FALSE,NA
+"WY","G","Matt Mead","R","clean.","","","",295,NA,NA,"mead","WY|G|mead",TRUE,FALSE,FALSE,FALSE,FALSE,NA
