@@ -82,3 +82,7 @@ The frozen public experimental input and recoding helper are in
 `data/external/principled/`, with source hashes. The 2018 YouGov experiment and
 `partisan_accountability`'s CCES/candidate-choice analyses answer different
 questions and are not pooled with the approval panel.
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
