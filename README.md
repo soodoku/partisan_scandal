@@ -85,4 +85,14 @@ questions and are not pooled with the approval panel.
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [soodoku/partisan_campaigns](https://github.com/soodoku/partisan_campaigns) — Coming to Dislike Your Opponents
+- [soodoku/dp_data](https://github.com/soodoku/dp_data) — Deliberative Poll data
+- [soodoku/dp_otherpk](https://github.com/soodoku/dp_otherpk) — Comparative analysis of congenial and uncongenial factual learning in Deliberative Polls
+- [soodoku/poor_browser](https://github.com/soodoku/poor_browser) — Do people on older browsers abandon surveys at higher rates?
+- [soodoku/pollbias](https://github.com/soodoku/pollbias) — The House Always Wins: House Effects in Polling
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
